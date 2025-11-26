@@ -1,0 +1,512 @@
+Location,CONTRACTOR_LABOR,CBA_Exempt,Required_Clearance,Labor_Category,Base_Hours,OY1_Hours,OY2_Hours,OY3_Hours,OY4_Hours,Total_Hours,Region_ID,Region_Name,Labor Category,Occupation_Code,Title,Rate,Required Clearance,CBA - Exempt,Hourly_Rate
+Beaufort,Non-SCA,Exempt,SECRET,Site Manager,9560.0,1912.0,1912.0,1912.0,1912.0,1912.0,,,,,,,,,95.0
+Beaufort,Non-SCA,Exempt,SECRET,Mission Coordinator,19120.0,3824.0,3824.0,3824.0,3824.0,3824.0,,,,,,,,,85.0
+Beaufort,Non-SCA,Exempt,SECRET,"Mission Coordinator, Senior",9560.0,1912.0,1912.0,1912.0,1912.0,1912.0,,,,,,,,,95.0
+Beaufort,SCA,SCLS,SECRET,Computer Operator V,38240.0,7648.0,7648.0,7648.0,7648.0,7648.0,SC_Beaufort,SC Beaufort,Computer Operator V,14045.0,Computer Operator V,31.62,SECRET,SCLS,31.62
+Beaufort,SCA,SCLS,SECRET,Electronics Technician III,57360.0,11472.0,11472.0,11472.0,11472.0,11472.0,SC_Beaufort,SC Beaufort,Electronics Technician III,23183.0,Electronics Technician Maintenance III,28.42,SECRET,SCLS,28.42
+Beaufort,SCA,SCLS,SECRET,Engineering Technician V,9560.0,1912.0,1912.0,1912.0,1912.0,1912.0,SC_Beaufort,SC Beaufort,Engineering Technician V,30085.0,Engineering Technician V,31.86,SECRET,SCLS,31.86
+Beaufort,SCA,SCLS,SECRET,Supply Technician,9560.0,1912.0,1912.0,1912.0,1912.0,1912.0,SC_Beaufort,SC Beaufort,Supply Technician,1410.0,Supply Technician,29.44,SECRET,SCLS,29.44
+Beaufort,Non-SCA,Exempt,SECRET,Security Coordinator,9560.0,1912.0,1912.0,1912.0,1912.0,1912.0,,,,,,,,,70.0
+Beaufort,Non-SCA,Exempt,SECRET,Quality Assurance/Safety Evaluator,19120.0,3824.0,3824.0,3824.0,3824.0,3824.0,,,,,,,,,75.0
+CP,Non-SCA,Exempt,SECRET,Site Manager,9560.0,1912.0,1912.0,1912.0,1912.0,1912.0,,,,,,,,,95.0
+CP,Non-SCA,Exempt,SECRET,Mission Coordinator,19120.0,3824.0,3824.0,3824.0,3824.0,3824.0,,,,,,,,,85.0
+CP,Non-SCA,Exempt,SECRET,"Mission Coordinator, Senior",9560.0,1912.0,1912.0,1912.0,1912.0,1912.0,,,,,,,,,95.0
+CP,SCA,SCLS,SECRET,Computer Operator IV,9560.0,1912.0,1912.0,1912.0,1912.0,1912.0,CA_San_Diego,CA San Diego,Computer Operator IV,14044.0,Computer Operator IV,33.60,SECRET,SCLS,33.6
+CP,SCA,CBA,SECRET,Computer Operator V,19120.0,3824.0,3824.0,3824.0,3824.0,3824.0,CA_San_Diego,CA San Diego,Computer Operator V,14045.0,Computer Operator V,37.21,SECRET,CBA,37.21
+CP,Non-SCA,Exempt,SECRET,Tactical Data Link Analyst,9560.0,1912.0,1912.0,1912.0,1912.0,1912.0,,,,,,,,,75.0
+CP,SCA,CBA,SECRET,Engineering Technician IV,9560.0,1912.0,1912.0,1912.0,1912.0,1912.0,CA_San_Diego,CA San Diego,Engineering Technician IV,30084.0,Engineering Technician IV,32.53,SECRET,CBA,32.53
+CP,SCA,SCLS,SECRET,Electronics Technician II,133840.0,26768.0,26768.0,26768.0,26768.0,26768.0,CA_San_Diego,CA San Diego,Electronics Technician II,23182.0,Electronics Technician Maintenance II,36.22,SECRET,SCLS,36.22
+CP,SCA,SCLS,SECRET,Electronics Technician III,181640.0,36328.0,36328.0,36328.0,36328.0,36328.0,CA_San_Diego,CA San Diego,Electronics Technician III,23183.0,Electronics Technician Maintenance III,38.28,SECRET,SCLS,38.28
+CP,SCA,SCLS,SECRET,Engineering Technician V,47800.0,9560.0,9560.0,9560.0,9560.0,9560.0,CA_San_Diego,CA San Diego,Engineering Technician V,30085.0,Engineering Technician V,39.78,SECRET,SCLS,39.78
+CP,SCA,SCLS,SECRET,Engineering Technician VI,28680.0,5736.0,5736.0,5736.0,5736.0,5736.0,CA_San_Diego,CA San Diego,Engineering Technician VI,30086.0,Engineering Technician VI,48.13,SECRET,SCLS,48.13
+CP,Non-SCA,Exempt,SECRET,Electrician,9560.0,1912.0,1912.0,1912.0,1912.0,1912.0,,,,,,,,,65.0
+CP,SCA,SCLS,SECRET,General Maintenance Worker,38240.0,7648.0,7648.0,7648.0,7648.0,7648.0,CA_San_Diego,CA San Diego,General Maintenance Worker,23370.0,General Maintenance Worker,24.83,SECRET,SCLS,24.83
+CP,SCA,SCLS,SECRET,"Heating, Ventilation and Air Conditioning",9560.0,1912.0,1912.0,1912.0,1912.0,1912.0,CA_San_Diego,CA San Diego,"Heating, Ventilation and Air Conditioning",23410.0,"Heating, Ventilation And Air-Conditioning",32.86,SECRET,SCLS,32.86
+CP,SCA,CBA,SECRET,Heavy Equipment Mechanic/Operator,28680.0,5736.0,5736.0,5736.0,5736.0,5736.0,CA_San_Diego,CA San Diego,Heavy Equipment Mechanic/Operator,23430.0,Heavy Equipment Mechanic,35.52,SECRET,CBA,35.52
+CP,Non-SCA,Exempt,SECRET,Maintenance Coordinator,19120.0,3824.0,3824.0,3824.0,3824.0,3824.0,,,,,,,,,80.0
+CP,Non-SCA,Exempt,SECRET,Logistician Analyst IV,9560.0,1912.0,1912.0,1912.0,1912.0,1912.0,,,,,,,,,75.0
+CP,SCA,CBA,SECRET,Supply Technician,28680.0,5736.0,5736.0,5736.0,5736.0,5736.0,CA_San_Diego,CA San Diego,Supply Technician,1410.0,Supply Technician,39.73,SECRET,CBA,39.73
+CP,Non-SCA,Exempt,SECRET,Security Coordinator,9560.0,1912.0,1912.0,1912.0,1912.0,1912.0,,,,,,,,,70.0
+CP,Non-SCA,Exempt,SECRET,Quality Assurance/Safety Evaluator,9560.0,1912.0,1912.0,1912.0,1912.0,1912.0,,,,,,,,,75.0
+El Centro,SCA,CBA,SECRET,Electronics Technician II,38240.0,7648.0,7648.0,7648.0,7648.0,7648.0,CA_Los_Angeles,CA Los Angeles,Electronics Technician II,23182.0,Electronics Technician Maintenance II,34.45,SECRET,CBA,34.45
+El Centro,SCA,CBA,SECRET,Electronics Technician III,28680.0,5736.0,5736.0,5736.0,5736.0,5736.0,CA_Los_Angeles,CA Los Angeles,Electronics Technician III,23183.0,Electronics Technician Maintenance III,36.58,SECRET,CBA,36.58
+Fallon,Non-SCA,Exempt,SECRET,Site Manager,9560.0,1912.0,1912.0,1912.0,1912.0,1912.0,,,,,,,,,95.0
+Fallon,Non-SCA,CBA,SECRET,Mission Coordinator,66920.0,13384.0,13384.0,13384.0,13384.0,13384.0,,,,,,,,,85.0
+Fallon,Non-SCA,CBA,SECRET,"Mission Coordinator, Senior",9560.0,1912.0,1912.0,1912.0,1912.0,1912.0,,,,,,,,,95.0
+Fallon,SCA,SCLS,SECRET,Computer Operator III,57360.0,11472.0,11472.0,11472.0,11472.0,11472.0,NV_Fallon,NV Churchill/Douglas,Computer Operator III,14043.0,Computer Operator III,25.78,SECRET,SCLS,25.78
+Fallon,SCA,SCLS,SECRET,Computer Operator IV,9560.0,1912.0,1912.0,1912.0,1912.0,1912.0,NV_Fallon,NV Churchill/Douglas,Computer Operator IV,14044.0,Computer Operator IV,28.66,SECRET,SCLS,28.66
+Fallon,Non-SCA,Exempt,SECRET,Tactical Data Link Analyst,38240.0,7648.0,7648.0,7648.0,7648.0,7648.0,,,,,,,,,75.0
+Fallon,Non-SCA,CBA,SECRET,Range Control Officer,47800.0,9560.0,9560.0,9560.0,9560.0,9560.0,,,,,,,,,80.0
+Fallon,Non-SCA,CBA,SECRET,"Range Control Officer, Senior",9560.0,1912.0,1912.0,1912.0,1912.0,1912.0,,,,,,,,,90.0
+Fallon,SCA,SCLS,SECRET,Electronics Technician II,478000.0,95600.0,95600.0,95600.0,95600.0,95600.0,NV_Fallon,NV Churchill/Douglas,Electronics Technician II,23182.0,Electronics Technician Maintenance II,37.93,SECRET,SCLS,37.93
+Fallon,SCA,SCLS,SECRET,Electronics Technician III,305920.0,61184.0,61184.0,61184.0,61184.0,61184.0,NV_Fallon,NV Churchill/Douglas,Electronics Technician III,23183.0,Electronics Technician Maintenance III,39.89,SECRET,SCLS,39.89
+Fallon,SCA,SCLS,SECRET,Engineering Technician V,86040.0,17208.0,17208.0,17208.0,17208.0,17208.0,NV_Fallon,NV Churchill/Douglas,Engineering Technician V,30085.0,Engineering Technician V,33.91,SECRET,SCLS,33.91
+Fallon,SCA,SCLS,SECRET,Engineering Technician VI,38240.0,7648.0,7648.0,7648.0,7648.0,7648.0,NV_Fallon,NV Churchill/Douglas,Engineering Technician VI,30086.0,Engineering Technician VI,41.03,SECRET,SCLS,41.03
+Fallon,SCA,CBA,SECRET,UXO Technician II,86040.0,17208.0,17208.0,17208.0,17208.0,17208.0,NV_Fallon,NV Churchill/Douglas,UXO Technician II,30492.0,Unexploded Ordnance (UXO) Technician II,36.19,SECRET,CBA,36.19
+Fallon,SCA,CBA,SECRET,UXO Technician III,57360.0,11472.0,11472.0,11472.0,11472.0,11472.0,NV_Fallon,NV Churchill/Douglas,UXO Technician III,30493.0,Unexploded Ordnance (UXO) Technician III,43.37,SECRET,CBA,43.37
+Fallon,Non-SCA,Exempt,SECRET,Electrician,9560.0,1912.0,1912.0,1912.0,1912.0,1912.0,,,,,,,,,65.0
+Fallon,SCA,CBA,SECRET,General Maintenance Worker,28680.0,5736.0,5736.0,5736.0,5736.0,5736.0,NV_Fallon,NV Churchill/Douglas,General Maintenance Worker,23370.0,General Maintenance Worker,24.08,SECRET,CBA,24.08
+Fallon,Non-SCA,Exempt,SECRET,Generator Technician II,19120.0,3824.0,3824.0,3824.0,3824.0,3824.0,,,,,,,,,55.0
+Fallon,Non-SCA,Exempt,SECRET,Generator Technician III,38240.0,7648.0,7648.0,7648.0,7648.0,7648.0,,,,,,,,,65.0
+Fallon,SCA,SCLS,SECRET,"Heating, Ventilation and Air Conditioning",9560.0,1912.0,1912.0,1912.0,1912.0,1912.0,NV_Fallon,NV Churchill/Douglas,"Heating, Ventilation and Air Conditioning",23410.0,"Heating, Ventilation And Air-Conditioning",29.04,SECRET,SCLS,29.04
+Fallon,SCA,CBA,SECRET,Heavy Equipment Mechanic/Operator,76480.0,15296.0,15296.0,15296.0,15296.0,15296.0,NV_Fallon,NV Churchill/Douglas,Heavy Equipment Mechanic/Operator,23430.0,Heavy Equipment Mechanic,40.62,SECRET,CBA,40.62
+Fallon,SCA,CBA,SECRET,Machinist,9560.0,1912.0,1912.0,1912.0,1912.0,1912.0,NV_Fallon,NV Churchill/Douglas,Machinist,23550.0,"Machinist, Maintenance",27.23,SECRET,CBA,27.23
+Fallon,SCA,CBA,SECRET,Motor Vehicle Mechanic,9560.0,1912.0,1912.0,1912.0,1912.0,1912.0,NV_Fallon,NV Churchill/Douglas,Motor Vehicle Mechanic,5190.0,Motor Vehicle Mechanic,28.56,SECRET,CBA,28.56
+Fallon,SCA,CBA,SECRET,Automotive Worker,9560.0,1912.0,1912.0,1912.0,1912.0,1912.0,NV_Fallon,NV Churchill/Douglas,Automotive Worker,5070.0,Automotive Worker,25.75,SECRET,CBA,25.75
+Fallon,SCA,CBA,SECRET,METROLOGY TECHNICIAN I,9560.0,1912.0,1912.0,1912.0,1912.0,1912.0,NV_Fallon,NV Churchill/Douglas,METROLOGY TECHNICIAN I,23591.0,Metrology Technician I,35.38,SECRET,CBA,35.38
+Fallon,Non-SCA,CBA,SECRET,Surveyor ,9560.0,1912.0,1912.0,1912.0,1912.0,1912.0,,,,,,,,,80.0
+Fallon,Non-SCA,Exempt,SECRET,Maintenance Coordinator,28680.0,5736.0,5736.0,5736.0,5736.0,5736.0,,,,,,,,,80.0
+Fallon,Non-SCA,Exempt,SECRET,Logistician Analyst IV,9560.0,1912.0,1912.0,1912.0,1912.0,1912.0,,,,,,,,,75.0
+Fallon,SCA,CBA,SECRET,Supply Technician,28680.0,5736.0,5736.0,5736.0,5736.0,5736.0,NV_Fallon,NV Churchill/Douglas,Supply Technician,1410.0,Supply Technician,30.26,SECRET,CBA,30.26
+Fallon,Non-SCA,Exempt,SECRET,Security Coordinator,66920.0,13384.0,13384.0,13384.0,13384.0,13384.0,,,,,,,,,70.0
+Fallon,Non-SCA,CBA,SECRET,Quality Assurance/Safety Evaluator,57360.0,11472.0,11472.0,11472.0,11472.0,11472.0,,,,,,,,,75.0
+Fallon,Non-SCA,Exempt,SECRET,Quality Control Inspector,9560.0,1912.0,1912.0,1912.0,1912.0,1912.0,,,,,,,,,80.0
+Hefti,Non-SCA,Exempt,SECRET,Mission Coordinator,267680.0,53536.0,53536.0,53536.0,53536.0,53536.0,,,,,,,,,85.0
+Hefti,Non-SCA,Exempt,SECRET,"Mission Coordinator, Senior",66920.0,13384.0,13384.0,13384.0,13384.0,13384.0,,,,,,,,,95.0
+Hefti,Non-SCA,Exempt,SECRET,Network Administrator III,9560.0,1912.0,1912.0,1912.0,1912.0,1912.0,,,,,,,,,80.0
+Hefti,Non-SCA,Exempt,SECRET,Network Administrator IV,411080.0,82216.0,82216.0,82216.0,82216.0,82216.0,,,,,,,,,80.0
+Hefti,Non-SCA,Exempt,SECRET,Network Administrator V,19120.0,3824.0,3824.0,3824.0,3824.0,3824.0,,,,,,,,,80.0
+Hefti,SCA,SCLS,SECRET,Computer Operator IV,57360.0,11472.0,11472.0,11472.0,11472.0,11472.0,UNKNOWN,,Computer Operator IV,14044.0,,,SECRET,SCLS,80.0
+Hefti,Non-SCA,Exempt,SECRET,Tactical Data Link Analyst,133840.0,26768.0,26768.0,26768.0,26768.0,26768.0,,,,,,,,,75.0
+Hefti,Non-SCA,CBA,SECRET,Electronics Technician II,66920.0,13384.0,13384.0,13384.0,13384.0,13384.0,UNKNOWN,,Electronics Technician II,23182.0,,,SECRET,CBA,80.0
+Hefti,SCA,SCLS,SECRET,Engineering Technician IV,353720.0,70744.0,70744.0,70744.0,70744.0,70744.0,UNKNOWN,,Engineering Technician IV,30084.0,,,SECRET,SCLS,80.0
+Hefti,SCA,SCLS,SECRET,Engineering Technician V,181640.0,36328.0,36328.0,36328.0,36328.0,36328.0,UNKNOWN,,Engineering Technician V,30085.0,,,SECRET,SCLS,80.0
+Hefti,Non-SCA,Exempt,SECRET,Maintenance Coordinator,28680.0,5736.0,5736.0,5736.0,5736.0,5736.0,,,,,,,,,80.0
+Hefti,Non-SCA,Exempt,SECRET,Security Coordinator,76480.0,15296.0,15296.0,15296.0,15296.0,15296.0,,,,,,,,,70.0
+JAX,Non-SCA,Exempt,SECRET,Site Manager,9560.0,1912.0,1912.0,1912.0,1912.0,1912.0,,,,,,,,,95.0
+JAX,Non-SCA,Exempt,SECRET,Mission Coordinator,9560.0,1912.0,1912.0,1912.0,1912.0,1912.0,,,,,,,,,85.0
+JAX,Non-SCA,Exempt,SECRET,"Mission Coordinator, Senior",9560.0,1912.0,1912.0,1912.0,1912.0,1912.0,,,,,,,,,95.0
+JAX,Non-SCA,Exempt,SECRET,Operations Analyst,19120.0,3824.0,3824.0,3824.0,3824.0,3824.0,,,,,,,,,80.0
+JAX,SCA,CBA,SECRET,Electronics Technician III,38240.0,7648.0,7648.0,7648.0,7648.0,7648.0,FL_Jacksonville,FL Jacksonville,Electronics Technician III,23183.0,Electronics Technician Maintenance III,30.79,SECRET,CBA,30.79
+JAX,SCA,SCLS,SECRET,Engineering Technician IV,28680.0,5736.0,5736.0,5736.0,5736.0,5736.0,FL_Jacksonville,FL Jacksonville,Engineering Technician IV,30084.0,Engineering Technician IV,27.46,SECRET,SCLS,27.46
+JAX,SCA,CBA,SECRET,Engineering Technician V,57360.0,11472.0,11472.0,11472.0,11472.0,11472.0,FL_Jacksonville,FL Jacksonville,Engineering Technician V,30085.0,Engineering Technician V,33.59,SECRET,CBA,33.59
+JAX,SCA,SCLS,SECRET,Engineering Technician VI,19120.0,3824.0,3824.0,3824.0,3824.0,3824.0,FL_Jacksonville,FL Jacksonville,Engineering Technician VI,30086.0,Engineering Technician VI,40.64,SECRET,SCLS,40.64
+JAX,Non-SCA,Exempt,SECRET,Logistician Analyst IV,9560.0,1912.0,1912.0,1912.0,1912.0,1912.0,,,,,,,,,75.0
+JAX,Non-SCA,Exempt,SECRET,Quality Assurance/Safety Evaluator,9560.0,1912.0,1912.0,1912.0,1912.0,1912.0,,,,,,,,,75.0
+Key West,Non-SCA,Exempt,SECRET,Site Manager,9560.0,1912.0,1912.0,1912.0,1912.0,1912.0,,,,,,,,,95.0
+Key West,Non-SCA,Exempt,SECRET,Mission Coordinator,9560.0,1912.0,1912.0,1912.0,1912.0,1912.0,,,,,,,,,85.0
+Key West,Non-SCA,Exempt,SECRET,"Mission Coordinator, Senior",9560.0,1912.0,1912.0,1912.0,1912.0,1912.0,,,,,,,,,95.0
+Key West,SCA,CBA,SECRET,Computer Operator IV,19120.0,3824.0,3824.0,3824.0,3824.0,3824.0,FL_Monroe,FL Monroe (Keys),Computer Operator IV,14044.0,Computer Operator IV,33.31,SECRET,CBA,33.31
+Key West,SCA,SCLS,SECRET,Computer Operator V,19120.0,3824.0,3824.0,3824.0,3824.0,3824.0,FL_Monroe,FL Monroe (Keys),Computer Operator V,14045.0,Computer Operator V,36.88,SECRET,SCLS,36.88
+Key West,Non-SCA,Exempt,SECRET,Tactical Data Link Analyst,19120.0,3824.0,3824.0,3824.0,3824.0,3824.0,,,,,,,,,75.0
+Key West,SCA,SCLS,SECRET,Engineering Technician IV,28680.0,5736.0,5736.0,5736.0,5736.0,5736.0,FL_Monroe,FL Monroe (Keys),Engineering Technician IV,30084.0,Engineering Technician IV,28.52,SECRET,SCLS,28.52
+Key West,SCA,CBA,SECRET,Engineering Technician V,28680.0,5736.0,5736.0,5736.0,5736.0,5736.0,FL_Monroe,FL Monroe (Keys),Engineering Technician V,30085.0,Engineering Technician V,34.88,SECRET,CBA,34.88
+Key West,Non-SCA,Exempt,SECRET,Logistician Analyst IV,9560.0,1912.0,1912.0,1912.0,1912.0,1912.0,,,,,,,,,75.0
+Key West,Non-SCA,Exempt,SECRET,Security Coordinator,28680.0,5736.0,5736.0,5736.0,5736.0,5736.0,,,,,,,,,70.0
+Key West,Non-SCA,Exempt,SECRET,Quality Assurance/Safety Evaluator,9560.0,1912.0,1912.0,1912.0,1912.0,1912.0,,,,,,,,,75.0
+Lemoore,Non-SCA,Exempt,SECRET,Site Lead,9560.0,1912.0,1912.0,1912.0,1912.0,1912.0,,,,,,,,,80.0
+Lemoore,Non-SCA,Exempt,SECRET,Mission Coordinator,38240.0,7648.0,7648.0,7648.0,7648.0,7648.0,,,,,,,,,85.0
+Lemoore,SCA,SCLS,SECRET,Computer Operator III,9560.0,1912.0,1912.0,1912.0,1912.0,1912.0,CA_Los_Angeles,CA Los Angeles,Computer Operator III,14043.0,Computer Operator III,28.91,SECRET,SCLS,28.91
+Lemoore,Non-SCA,Exempt,SECRET,Tactical Data Link Analyst,19120.0,3824.0,3824.0,3824.0,3824.0,3824.0,,,,,,,,,75.0
+Lemoore,SCA,CBA,SECRET,Electronics Technician III,57360.0,11472.0,11472.0,11472.0,11472.0,11472.0,CA_Los_Angeles,CA Los Angeles,Electronics Technician III,23183.0,Electronics Technician Maintenance III,36.58,SECRET,CBA,36.58
+Lemoore,SCA,CBA,SECRET,Electronics Technician II,28680.0,5736.0,5736.0,5736.0,5736.0,5736.0,CA_Los_Angeles,CA Los Angeles,Electronics Technician II,23182.0,Electronics Technician Maintenance II,34.45,SECRET,CBA,34.45
+Lemoore,SCA,SCLS,SECRET,Engineering Technician IV,9560.0,1912.0,1912.0,1912.0,1912.0,1912.0,CA_Los_Angeles,CA Los Angeles,Engineering Technician IV,30084.0,Engineering Technician IV,31.97,SECRET,SCLS,31.97
+Miramar,Non-SCA,Exempt,SECRET,Site Lead,9560.0,1912.0,1912.0,1912.0,1912.0,1912.0,,,,,,,,,80.0
+Miramar,Non-SCA,Exempt,SECRET,Mission Coordinator,19120.0,3824.0,3824.0,3824.0,3824.0,3824.0,,,,,,,,,85.0
+Miramar,SCA,CBA,SECRET,Computer Operator III,28680.0,5736.0,5736.0,5736.0,5736.0,5736.0,CA_San_Diego,CA San Diego,Computer Operator III,14043.0,Computer Operator III,30.23,SECRET,CBA,30.23
+Miramar,SCA,CBA,SECRET,Computer Operator V,9560.0,1912.0,1912.0,1912.0,1912.0,1912.0,CA_San_Diego,CA San Diego,Computer Operator V,14045.0,Computer Operator V,37.21,SECRET,CBA,37.21
+Miramar,Non-SCA,Exempt,SECRET,Tactical Data Link Analyst,9560.0,1912.0,1912.0,1912.0,1912.0,1912.0,,,,,,,,,75.0
+Miramar,SCA,SCLS,SECRET,Engineering Technician IV,9560.0,1912.0,1912.0,1912.0,1912.0,1912.0,CA_San_Diego,CA San Diego,Engineering Technician IV,30084.0,Engineering Technician IV,32.53,SECRET,SCLS,32.53
+Miramar,SCA,CBA,SECRET,Electronics Technician II (INST),9560.0,1912.0,1912.0,1912.0,1912.0,1912.0,CA_San_Diego,CA San Diego,Electronics Technician II (INST),23182.0,Electronics Technician Maintenance II,36.22,SECRET,CBA,36.22
+Miramar,SCA,CBA,SECRET,Electronics Technician III,19120.0,3824.0,3824.0,3824.0,3824.0,3824.0,CA_San_Diego,CA San Diego,Electronics Technician III,23183.0,Electronics Technician Maintenance III,38.28,SECRET,CBA,38.28
+Miramar,SCA,CBA,SECRET,Computer Systems Analyst I,9560.0,1912.0,1912.0,1912.0,1912.0,1912.0,CA_San_Diego,CA San Diego,Computer Systems Analyst I,14101.0,Computer Systems Analyst I,(see 1),SECRET,CBA,75.0
+Miramar,SCA,CBA,SECRET,Computer Systems Analyst II,9560.0,1912.0,1912.0,1912.0,1912.0,1912.0,CA_San_Diego,CA San Diego,Computer Systems Analyst II,14102.0,Computer Systems Analyst II,(see 1),SECRET,CBA,75.0
+Miramar,Non-SCA,Exempt,SECRET,Security Coordinator,19120.0,3824.0,3824.0,3824.0,3824.0,3824.0,,,,,,,,,70.0
+MTEN - 29 Palms,Non-SCA,Exempt,SECRET,Cybersecurity Analyst III,3186.666666666667,637.3333333333334,637.3333333333334,637.3333333333334,637.3333333333334,637.3333333333334,,,,,,,,,80.0
+MTEN - 29 Palms,Non-SCA,Exempt,SECRET,Cybersecurity Analyst IV,3186.666666666667,637.3333333333334,637.3333333333334,637.3333333333334,637.3333333333334,637.3333333333334,,,,,,,,,80.0
+MTEN - 29 Palms,Non-SCA,Exempt,SECRET,Mission Coordinator,11153.333333333332,2230.6666666666665,2230.6666666666665,2230.6666666666665,2230.6666666666665,2230.6666666666665,,,,,,,,,85.0
+MTEN - 29 Palms,Non-SCA,Exempt,SECRET,Network Administrator III,6373.333333333334,1274.6666666666667,1274.6666666666667,1274.6666666666667,1274.6666666666667,1274.6666666666667,,,,,,,,,80.0
+MTEN - 29 Palms,Non-SCA,Exempt,SECRET,Network Administrator IV,28680.0,5736.0,5736.0,5736.0,5736.0,5736.0,,,,,,,,,80.0
+MTEN - 29 Palms,Non-SCA,Exempt,SECRET,Network Engineer IV,11153.333333333332,2230.6666666666665,2230.6666666666665,2230.6666666666665,2230.6666666666665,2230.6666666666665,,,,,,,,,95.0
+MTEN - 29 Palms,Non-SCA,Exempt,SECRET,Tactical Data Link Analyst,11153.333333333332,2230.6666666666665,2230.6666666666665,2230.6666666666665,2230.6666666666665,2230.6666666666665,,,,,,,,,75.0
+MTEN - 29 Palms,Non-SCA,Exempt,SECRET,Technical Support Specialist,22306.666666666664,4461.333333333333,4461.333333333333,4461.333333333333,4461.333333333333,4461.333333333333,,,,,,,,,80.0
+MTEN - Camp Lejeune,Non-SCA,Exempt,SECRET,Cybersecurity Analyst III,3186.666666666667,637.3333333333334,637.3333333333334,637.3333333333334,637.3333333333334,637.3333333333334,,,,,,,,,80.0
+MTEN - Camp Lejeune,Non-SCA,Exempt,SECRET,Cybersecurity Analyst IV,3186.666666666667,637.3333333333334,637.3333333333334,637.3333333333334,637.3333333333334,637.3333333333334,,,,,,,,,80.0
+MTEN - Camp Lejeune,Non-SCA,Exempt,SECRET,Mission Coordinator,11153.333333333332,2230.6666666666665,2230.6666666666665,2230.6666666666665,2230.6666666666665,2230.6666666666665,,,,,,,,,85.0
+MTEN - Camp Lejeune,Non-SCA,Exempt,SECRET,Network Administrator III,6373.333333333334,1274.6666666666667,1274.6666666666667,1274.6666666666667,1274.6666666666667,1274.6666666666667,,,,,,,,,80.0
+MTEN - Camp Lejeune,Non-SCA,Exempt,SECRET,Network Administrator IV,28680.0,5736.0,5736.0,5736.0,5736.0,5736.0,,,,,,,,,80.0
+MTEN - Camp Lejeune,Non-SCA,Exempt,SECRET,Network Engineer IV,11153.333333333332,2230.6666666666665,2230.6666666666665,2230.6666666666665,2230.6666666666665,2230.6666666666665,,,,,,,,,95.0
+MTEN - Camp Lejeune,Non-SCA,Exempt,SECRET,Tactical Data Link Analyst,11153.333333333332,2230.6666666666665,2230.6666666666665,2230.6666666666665,2230.6666666666665,2230.6666666666665,,,,,,,,,75.0
+MTEN - Camp Lejeune,Non-SCA,Exempt,SECRET,Technical Support Specialist,22306.666666666664,4461.333333333333,4461.333333333333,4461.333333333333,4461.333333333333,4461.333333333333,,,,,,,,,80.0
+MTEN - Camp Pendleton,Non-SCA,Exempt,SECRET,Cybersecurity Analyst III,3186.666666666667,637.3333333333334,637.3333333333334,637.3333333333334,637.3333333333334,637.3333333333334,,,,,,,,,80.0
+MTEN - Camp Pendleton,Non-SCA,Exempt,SECRET,Cybersecurity Analyst IV,3186.666666666667,637.3333333333334,637.3333333333334,637.3333333333334,637.3333333333334,637.3333333333334,,,,,,,,,80.0
+MTEN - Camp Pendleton,Non-SCA,Exempt,SECRET,Mission Coordinator,11153.333333333332,2230.6666666666665,2230.6666666666665,2230.6666666666665,2230.6666666666665,2230.6666666666665,,,,,,,,,85.0
+MTEN - Camp Pendleton,Non-SCA,Exempt,SECRET,Network Administrator III,6373.333333333334,1274.6666666666667,1274.6666666666667,1274.6666666666667,1274.6666666666667,1274.6666666666667,,,,,,,,,80.0
+MTEN - Camp Pendleton,Non-SCA,Exempt,SECRET,Network Administrator IV,28680.0,5736.0,5736.0,5736.0,5736.0,5736.0,,,,,,,,,80.0
+MTEN - Camp Pendleton,Non-SCA,Exempt,SECRET,Network Engineer IV,11153.333333333332,2230.6666666666665,2230.6666666666665,2230.6666666666665,2230.6666666666665,2230.6666666666665,,,,,,,,,95.0
+MTEN - Camp Pendleton,Non-SCA,Exempt,SECRET,Tactical Data Link Analyst,11153.333333333332,2230.6666666666665,2230.6666666666665,2230.6666666666665,2230.6666666666665,2230.6666666666665,,,,,,,,,75.0
+MTEN - Camp Pendleton,Non-SCA,Exempt,SECRET,Technical Support Specialist,22306.666666666664,4461.333333333333,4461.333333333333,4461.333333333333,4461.333333333333,4461.333333333333,,,,,,,,,80.0
+MTEN - MCB Kaneohe Bay,Non-SCA,Exempt,SECRET,Cybersecurity Analyst III,3186.666666666667,637.3333333333334,637.3333333333334,637.3333333333334,637.3333333333334,637.3333333333334,,,,,,,,,80.0
+MTEN - MCB Kaneohe Bay,Non-SCA,Exempt,SECRET,Cybersecurity Analyst IV,3186.666666666667,637.3333333333334,637.3333333333334,637.3333333333334,637.3333333333334,637.3333333333334,,,,,,,,,80.0
+MTEN - MCB Kaneohe Bay,Non-SCA,Exempt,SECRET,Mission Coordinator,11153.333333333332,2230.6666666666665,2230.6666666666665,2230.6666666666665,2230.6666666666665,2230.6666666666665,,,,,,,,,85.0
+MTEN - MCB Kaneohe Bay,Non-SCA,Exempt,SECRET,Network Administrator III,6373.333333333334,1274.6666666666667,1274.6666666666667,1274.6666666666667,1274.6666666666667,1274.6666666666667,,,,,,,,,80.0
+MTEN - MCB Kaneohe Bay,Non-SCA,Exempt,SECRET,Network Administrator IV,28680.0,5736.0,5736.0,5736.0,5736.0,5736.0,,,,,,,,,80.0
+MTEN - MCB Kaneohe Bay,Non-SCA,Exempt,SECRET,Network Engineer IV,11153.333333333332,2230.6666666666665,2230.6666666666665,2230.6666666666665,2230.6666666666665,2230.6666666666665,,,,,,,,,95.0
+MTEN - MCB Kaneohe Bay,Non-SCA,Exempt,SECRET,Tactical Data Link Analyst,11153.333333333332,2230.6666666666665,2230.6666666666665,2230.6666666666665,2230.6666666666665,2230.6666666666665,,,,,,,,,75.0
+MTEN - MCB Kaneohe Bay,Non-SCA,Exempt,SECRET,Technical Support Specialist,22306.666666666664,4461.333333333333,4461.333333333333,4461.333333333333,4461.333333333333,4461.333333333333,,,,,,,,,80.0
+MTEN - MCB Quantico,Non-SCA,Exempt,SECRET,Cybersecurity Analyst III,3186.666666666667,637.3333333333334,637.3333333333334,637.3333333333334,637.3333333333334,637.3333333333334,,,,,,,,,80.0
+MTEN - MCB Quantico,Non-SCA,Exempt,SECRET,Cybersecurity Analyst IV,3186.666666666667,637.3333333333334,637.3333333333334,637.3333333333334,637.3333333333334,637.3333333333334,,,,,,,,,80.0
+MTEN - MCB Quantico,Non-SCA,Exempt,SECRET,Mission Coordinator,11153.333333333332,2230.6666666666665,2230.6666666666665,2230.6666666666665,2230.6666666666665,2230.6666666666665,,,,,,,,,85.0
+MTEN - MCB Quantico,Non-SCA,Exempt,SECRET,Network Administrator III,6373.333333333334,1274.6666666666667,1274.6666666666667,1274.6666666666667,1274.6666666666667,1274.6666666666667,,,,,,,,,80.0
+MTEN - MCB Quantico,Non-SCA,Exempt,SECRET,Network Administrator IV,28680.0,5736.0,5736.0,5736.0,5736.0,5736.0,,,,,,,,,80.0
+MTEN - MCB Quantico,Non-SCA,Exempt,SECRET,Network Engineer IV,11153.333333333332,2230.6666666666665,2230.6666666666665,2230.6666666666665,2230.6666666666665,2230.6666666666665,,,,,,,,,95.0
+MTEN - MCB Quantico,Non-SCA,Exempt,SECRET,Tactical Data Link Analyst,11153.333333333332,2230.6666666666665,2230.6666666666665,2230.6666666666665,2230.6666666666665,2230.6666666666665,,,,,,,,,75.0
+MTEN - MCB Quantico,Non-SCA,Exempt,SECRET,Technical Support Specialist,22306.666666666664,4461.333333333333,4461.333333333333,4461.333333333333,4461.333333333333,4461.333333333333,,,,,,,,,80.0
+MTEN - Okinawa,Non-SCA,Exempt,SECRET,Cybersecurity Analyst III,3186.666666666667,637.3333333333334,637.3333333333334,637.3333333333334,637.3333333333334,637.3333333333334,,,,,,,,,80.0
+MTEN - Okinawa,Non-SCA,Exempt,SECRET,Cybersecurity Analyst IV,3186.666666666667,637.3333333333334,637.3333333333334,637.3333333333334,637.3333333333334,637.3333333333334,,,,,,,,,80.0
+MTEN - Okinawa,Non-SCA,Exempt,SECRET,Mission Coordinator,11153.333333333332,2230.6666666666665,2230.6666666666665,2230.6666666666665,2230.6666666666665,2230.6666666666665,,,,,,,,,85.0
+MTEN - Okinawa,Non-SCA,Exempt,SECRET,Network Administrator III,6373.333333333334,1274.6666666666667,1274.6666666666667,1274.6666666666667,1274.6666666666667,1274.6666666666667,,,,,,,,,80.0
+MTEN - Okinawa,Non-SCA,Exempt,SECRET,Network Administrator IV,28680.0,5736.0,5736.0,5736.0,5736.0,5736.0,,,,,,,,,80.0
+MTEN - Okinawa,Non-SCA,Exempt,SECRET,Network Engineer IV,11153.333333333332,2230.6666666666665,2230.6666666666665,2230.6666666666665,2230.6666666666665,2230.6666666666665,,,,,,,,,95.0
+MTEN - Okinawa,Non-SCA,Exempt,SECRET,Tactical Data Link Analyst,11153.333333333332,2230.6666666666665,2230.6666666666665,2230.6666666666665,2230.6666666666665,2230.6666666666665,,,,,,,,,75.0
+MTEN - Okinawa,Non-SCA,Exempt,SECRET,Technical Support Specialist,22306.666666666664,4461.333333333333,4461.333333333333,4461.333333333333,4461.333333333333,4461.333333333333,,,,,,,,,80.0
+Navy Dare,Non-SCA,Exempt,SECRET,Site Manager,9560.0,1912.0,1912.0,1912.0,1912.0,1912.0,,,,,,,,,95.0
+Navy Dare,Non-SCA,Exempt,SECRET,"Mission Coordinator, Senior",9560.0,1912.0,1912.0,1912.0,1912.0,1912.0,,,,,,,,,95.0
+Navy Dare,Non-SCA,Exempt,SECRET,Technical Support Specialist,47800.0,9560.0,9560.0,9560.0,9560.0,9560.0,,,,,,,,,80.0
+Navy Dare,SCA,CBA,SECRET,Electronics Technician III,28680.0,5736.0,5736.0,5736.0,5736.0,5736.0,NC_Dare,NC Dare County,Electronics Technician III,23183.0,Electronics Technician Maintenance III,41.20,SECRET,CBA,41.2
+Navy Dare,SCA,SCLS,SECRET,Engineering Technician V,19120.0,3824.0,3824.0,3824.0,3824.0,3824.0,NC_Dare,NC Dare County,Engineering Technician V,30085.0,Engineering Technician V,30.12,SECRET,SCLS,30.12
+Navy Dare,SCA,CBA,SECRET,General Maintenance Worker,9560.0,1912.0,1912.0,1912.0,1912.0,1912.0,NC_Dare,NC Dare County,General Maintenance Worker,23370.0,General Maintenance Worker,21.19,SECRET,CBA,21.19
+Navy Dare,SCA,SCLS,SECRET,Motor Vehicle Mechanic,9560.0,1912.0,1912.0,1912.0,1912.0,1912.0,NC_Dare,NC Dare County,Motor Vehicle Mechanic,5190.0,Motor Vehicle Mechanic,22.17,SECRET,SCLS,22.17
+Navy Dare,Non-SCA,Exempt,SECRET,Logistician Analyst IV,9560.0,1912.0,1912.0,1912.0,1912.0,1912.0,,,,,,,,,75.0
+Navy Dare,Non-SCA,Exempt,SECRET,Quality Assurance/Safety Evaluator,9560.0,1912.0,1912.0,1912.0,1912.0,1912.0,,,,,,,,,75.0
+NCAMS,Non-SCA,Exempt,SECRET,Site Manager,9560.0,1912.0,1912.0,1912.0,1912.0,1912.0,,,,,,,,,95.0
+NCAMS,Non-SCA,Exempt,SECRET,Technical Coordinator,38240.0,7648.0,7648.0,7648.0,7648.0,7648.0,,,,,,,,,80.0
+NCAMS,Non-SCA,Exempt,SECRET,Operations Analyst,9560.0,1912.0,1912.0,1912.0,1912.0,1912.0,,,,,,,,,80.0
+NCAMS,Non-SCA,Exempt,SECRET,Tactical Data Link Analyst,9560.0,1912.0,1912.0,1912.0,1912.0,1912.0,,,,,,,,,75.0
+NCAMS,Non-SCA,Exempt,SECRET,Network Analyst IV,19120.0,3824.0,3824.0,3824.0,3824.0,3824.0,,,,,,,,,80.0
+NCAMS,SCA,SCLS,SECRET,Computer Systems Analyst II,19120.0,3824.0,3824.0,3824.0,3824.0,3824.0,NC_Craven,NC Craven County,Computer Systems Analyst II,14102.0,Computer Systems Analyst II,(see 1),SECRET,SCLS,75.0
+NCAMS,SCA,SCLS,SECRET,Computer Operator IV,38240.0,7648.0,7648.0,7648.0,7648.0,7648.0,NC_Craven,NC Craven County,Computer Operator IV,14044.0,Computer Operator IV,23.82,SECRET,SCLS,23.82
+Oceana,Non-SCA,Exempt,TS/SCI,Program Manager,9560.0,1912.0,1912.0,1912.0,1912.0,1912.0,,,,,,,,,80.0
+Oceana,Non-SCA,Exempt,SECRET,Site Manager,9560.0,1912.0,1912.0,1912.0,1912.0,1912.0,,,,,,,,,95.0
+Oceana,Non-SCA,Exempt,SECRET,Mission Coordinator,9560.0,1912.0,1912.0,1912.0,1912.0,1912.0,,,,,,,,,85.0
+Oceana,Non-SCA,Exempt,SECRET,"Mission Coordinator, Senior",9560.0,1912.0,1912.0,1912.0,1912.0,1912.0,,,,,,,,,95.0
+Oceana,Non-SCA,Exempt,SECRET,Technical Support Specialist,9560.0,1912.0,1912.0,1912.0,1912.0,1912.0,,,,,,,,,80.0
+Oceana,SCA,CBA,SECRET,Computer Operator V,19120.0,3824.0,3824.0,3824.0,3824.0,3824.0,VA_NC_Hampton,NC/VA Hampton Roads,Computer Operator V,14045.0,Computer Operator V,28.83,SECRET,CBA,28.83
+Oceana,Non-SCA,Exempt,SECRET,Operations Analyst,9560.0,1912.0,1912.0,1912.0,1912.0,1912.0,,,,,,,,,80.0
+Oceana,Non-SCA,Exempt,SECRET,Tactical Data Link Analyst,9560.0,1912.0,1912.0,1912.0,1912.0,1912.0,,,,,,,,,75.0
+Oceana,SCA,CBA,SECRET,Engineering Technician IV,114720.0,22944.0,22944.0,22944.0,22944.0,22944.0,VA_NC_Hampton,NC/VA Hampton Roads,Engineering Technician IV,30084.0,Engineering Technician IV,30.81,SECRET,CBA,30.81
+Oceana,SCA,CBA,SECRET,Engineering Technician V,66920.0,13384.0,13384.0,13384.0,13384.0,13384.0,VA_NC_Hampton,NC/VA Hampton Roads,Engineering Technician V,30085.0,Engineering Technician V,37.68,SECRET,CBA,37.68
+Oceana,Non-SCA,Exempt,SECRET,Maintenance Coordinator,9560.0,1912.0,1912.0,1912.0,1912.0,1912.0,,,,,,,,,80.0
+Oceana,Non-SCA,Exempt,SECRET,Logistician Analyst IV,28680.0,5736.0,5736.0,5736.0,5736.0,5736.0,,,,,,,,,75.0
+Oceana,Non-SCA,Exempt,SECRET,Security Coordinator,19120.0,3824.0,3824.0,3824.0,3824.0,3824.0,,,,,,,,,70.0
+Oceana,Non-SCA,Exempt,SECRET,Quality Assurance/Safety Evaluator,19120.0,3824.0,3824.0,3824.0,3824.0,3824.0,,,,,,,,,75.0
+Pinecastle,Non-SCA,Exempt,SECRET,Site Manager,9560.0,1912.0,1912.0,1912.0,1912.0,1912.0,,,,,,,,,95.0
+Pinecastle,Non-SCA,Exempt,SECRET,Technical Lead,9560.0,1912.0,1912.0,1912.0,1912.0,1912.0,,,,,,,,,80.0
+Pinecastle,Non-SCA,Exempt,SECRET,"Mission Coordinator, Senior",9560.0,1912.0,1912.0,1912.0,1912.0,1912.0,,,,,,,,,95.0
+Pinecastle,Non-SCA,Exempt,SECRET,Technical Support Specialist,47800.0,9560.0,9560.0,9560.0,9560.0,9560.0,,,,,,,,,80.0
+Pinecastle,SCA,SCLS,SECRET,Electronics Technician III,66920.0,13384.0,13384.0,13384.0,13384.0,13384.0,FL_Lake,FL Lake County,Electronics Technician III,23183.0,Electronics Technician Maintenance III,29.80,SECRET,SCLS,29.8
+Pinecastle,Non-SCA,Exempt,SECRET,Logistician Analyst IV,9560.0,1912.0,1912.0,1912.0,1912.0,1912.0,,,,,,,,,75.0
+Pinecastle,Non-SCA,Exempt,SECRET,Quality Assurance/Safety Evaluator,9560.0,1912.0,1912.0,1912.0,1912.0,1912.0,,,,,,,,,75.0
+Pinecastle,Non-SCA,Exempt,SECRET,Quality Control,9560.0,1912.0,1912.0,1912.0,1912.0,1912.0,,,,,,,,,80.0
+PNW,Non-SCA,Exempt,SECRET,Site Lead,9560.0,1912.0,1912.0,1912.0,1912.0,1912.0,,,,,,,,,80.0
+PNW,Non-SCA,Exempt,SECRET,Mission Coordinator,38240.0,7648.0,7648.0,7648.0,7648.0,7648.0,,,,,,,,,85.0
+PNW,Non-SCA,Exempt,SECRET,"Mission Coordinator, Senior",19120.0,3824.0,3824.0,3824.0,3824.0,3824.0,,,,,,,,,95.0
+PNW,Non-SCA,Exempt,SECRET,Technical Support Specialist,28680.0,5736.0,5736.0,5736.0,5736.0,5736.0,,,,,,,,,80.0
+PNW,Non-SCA,Exempt,SECRET,Tactical Data Link Analyst,19120.0,3824.0,3824.0,3824.0,3824.0,3824.0,,,,,,,,,75.0
+PNW,SCA,SCLS,SECRET,Engineering Technician IV,38240.0,7648.0,7648.0,7648.0,7648.0,7648.0,WA_Grays_Harbor,WA Grays Harbor,Engineering Technician IV,30084.0,Engineering Technician IV,31.22,SECRET,SCLS,31.22
+PNW,SCA,SCLS,SECRET,Electronics Technician I,57360.0,11472.0,11472.0,11472.0,11472.0,11472.0,WA_Grays_Harbor,WA Grays Harbor,Electronics Technician I,23181.0,Electronics Technician Maintenance I,35.77,SECRET,SCLS,35.77
+PNW,SCA,SCLS,SECRET,Electronics Technician III,66920.0,13384.0,13384.0,13384.0,13384.0,13384.0,WA_Grays_Harbor,WA Grays Harbor,Electronics Technician III,23183.0,Electronics Technician Maintenance III,39.28,SECRET,SCLS,39.28
+PNW,SCA,SCLS,SECRET,Engineering Technician V,105160.0,21032.0,21032.0,21032.0,21032.0,21032.0,WA_Grays_Harbor,WA Grays Harbor,Engineering Technician V,30085.0,Engineering Technician V,38.19,SECRET,SCLS,38.19
+PNW,SCA,SCLS,SECRET,Supply Technician,9560.0,1912.0,1912.0,1912.0,1912.0,1912.0,WA_Grays_Harbor,WA Grays Harbor,Supply Technician,1410.0,Supply Technician,34.00,SECRET,SCLS,34.0
+PNW,Non-SCA,Exempt,SECRET,Security Coordinator,19120.0,3824.0,3824.0,3824.0,3824.0,3824.0,,,,,,,,,70.0
+PNW,Non-SCA,Exempt,SECRET,Quality Assurance/Safety Evaluator,9560.0,1912.0,1912.0,1912.0,1912.0,1912.0,,,,,,,,,75.0
+SCTTR,Non-SCA,Exempt,SECRET,Site Manager,9560.0,1912.0,1912.0,1912.0,1912.0,1912.0,,,,,,,,,95.0
+SCTTR,Non-SCA,Exempt,SECRET,Mission Coordinator,143400.0,28680.0,28680.0,28680.0,28680.0,28680.0,,,,,,,,,85.0
+SCTTR,Non-SCA,Exempt,SECRET,"Mission Coordinator, Senior",19120.0,3824.0,3824.0,3824.0,3824.0,3824.0,,,,,,,,,95.0
+SCTTR,Non-SCA,Exempt,SECRET,Technical Support Specialist,95600.0,19120.0,19120.0,19120.0,19120.0,19120.0,,,,,,,,,80.0
+SCTTR,SCA,SCLS,SECRET,Engineering Technician III,105160.0,21032.0,21032.0,21032.0,21032.0,21032.0,SC_Beaufort,SC Beaufort,Engineering Technician III,30083.0,Engineering Technician III,21.02,SECRET,SCLS,21.02
+SCTTR,Non-SCA,Exempt,SECRET,Operations Analyst,181640.0,36328.0,36328.0,36328.0,36328.0,36328.0,,,,,,,,,80.0
+SCTTR,SCA,CBA,SECRET,Electronics Technician III,219880.0,43976.0,43976.0,43976.0,43976.0,43976.0,SC_Beaufort,SC Beaufort,Electronics Technician III,23183.0,Electronics Technician Maintenance III,28.42,SECRET,CBA,28.42
+SCTTR,SCA,CBA,SECRET,Engineering Technician V,66920.0,13384.0,13384.0,13384.0,13384.0,13384.0,SC_Beaufort,SC Beaufort,Engineering Technician V,30085.0,Engineering Technician V,31.86,SECRET,CBA,31.86
+SCTTR,Non-SCA,Exempt,SECRET,Range Control Facilitator,95600.0,19120.0,19120.0,19120.0,19120.0,19120.0,,,,,,,,,80.0
+SCTTR,SCA,CBA,SECRET,Electronics Technician II,210320.0,42064.0,42064.0,42064.0,42064.0,42064.0,SC_Beaufort,SC Beaufort,Electronics Technician II,23182.0,Electronics Technician Maintenance II,26.88,SECRET,CBA,26.88
+SCTTR,SCA,SCLS,SECRET,Electronics Technician I,38240.0,7648.0,7648.0,7648.0,7648.0,7648.0,SC_Beaufort,SC Beaufort,Electronics Technician I,23181.0,Electronics Technician Maintenance I,25.43,SECRET,SCLS,25.43
+SCTTR,SCA,SCLS,SECRET,UXO Technician III,57360.0,11472.0,11472.0,11472.0,11472.0,11472.0,SC_Beaufort,SC Beaufort,UXO Technician III,30493.0,Unexploded Ordnance (UXO) Technician III,42.46,SECRET,SCLS,42.46
+SCTTR,Non-SCA,Exempt,SECRET,Logistician Analyst IV,28680.0,5736.0,5736.0,5736.0,5736.0,5736.0,,,,,,,,,75.0
+SCTTR,SCA,SCLS,SECRET,Supply Technician,19120.0,3824.0,3824.0,3824.0,3824.0,3824.0,SC_Beaufort,SC Beaufort,Supply Technician,1410.0,Supply Technician,29.44,SECRET,SCLS,29.44
+SCTTR,Non-SCA,Exempt,SECRET,Security Coordinator,28680.0,5736.0,5736.0,5736.0,5736.0,5736.0,,,,,,,,,70.0
+SCTTR,Non-SCA,Exempt,SECRET,Quality Assurance/Safety Evaluator,9560.0,1912.0,1912.0,1912.0,1912.0,1912.0,,,,,,,,,75.0
+TTGP,Non-SCA,Exempt,SECRET,Site Manager,9560.0,1912.0,1912.0,1912.0,1912.0,1912.0,,,,,,,,,95.0
+TTGP,Non-SCA,Exempt,SECRET,"Mission Coordinator, Senior",9560.0,1912.0,1912.0,1912.0,1912.0,1912.0,,,,,,,,,95.0
+TTGP,Non-SCA,Exempt,SECRET,Mission Coordinator,95600.0,19120.0,19120.0,19120.0,19120.0,19120.0,,,,,,,,,85.0
+TTGP,Non-SCA,Exempt,SECRET,Network Administrator III,66920.0,13384.0,13384.0,13384.0,13384.0,13384.0,,,,,,,,,80.0
+TTGP,Non-SCA,Exempt,SECRET,Network Administrator IV,200760.0,40152.0,40152.0,40152.0,40152.0,40152.0,,,,,,,,,80.0
+TTGP,Non-SCA,Exempt,SECRET,Network Administrator V,38240.0,7648.0,7648.0,7648.0,7648.0,7648.0,,,,,,,,,80.0
+TTGP,SCA,CBA,SECRET,Engineering Technician III,66920.0,13384.0,13384.0,13384.0,13384.0,13384.0,UNKNOWN,,Engineering Technician III,30083.0,,,SECRET,CBA,80.0
+Yuma,Non-SCA,Exempt,SECRET,Site Manager,9560.0,1912.0,1912.0,1912.0,1912.0,1912.0,,,,,,,,,95.0
+Yuma,Non-SCA,Exempt,SECRET,Mission Coordinator,19120.0,3824.0,3824.0,3824.0,3824.0,3824.0,,,,,,,,,85.0
+Yuma,Non-SCA,Exempt,SECRET,"Mission Coordinator, Senior",9560.0,1912.0,1912.0,1912.0,1912.0,1912.0,,,,,,,,,95.0
+Yuma,SCA,CBA,SECRET,Computer Operator III,28680.0,5736.0,5736.0,5736.0,5736.0,5736.0,AZ_Yuma,AZ Yuma,Computer Operator III,14043.0,Computer Operator III,25.06,SECRET,CBA,25.06
+Yuma,SCA,CBA,SECRET,Computer Operator V,9560.0,1912.0,1912.0,1912.0,1912.0,1912.0,AZ_Yuma,AZ Yuma,Computer Operator V,14045.0,Computer Operator V,29.73,SECRET,CBA,29.73
+Yuma,Non-SCA,Exempt,SECRET,Tactical Data Link Analyst,9560.0,1912.0,1912.0,1912.0,1912.0,1912.0,,,,,,,,,75.0
+Yuma,SCA,SCLS,SECRET,Engineering Technician IV,28680.0,5736.0,5736.0,5736.0,5736.0,5736.0,AZ_Yuma,AZ Yuma,Engineering Technician IV,30084.0,Engineering Technician IV,26.87,SECRET,SCLS,26.87
+Yuma,SCA,CBA,SECRET,Electronics Technician II,124280.0,24856.0,24856.0,24856.0,24856.0,24856.0,AZ_Yuma,AZ Yuma,Electronics Technician II,23182.0,Electronics Technician Maintenance II,32.67,SECRET,CBA,32.67
+Yuma,SCA,CBA,SECRET,Electronics Technician III,152960.0,30592.0,30592.0,30592.0,30592.0,30592.0,AZ_Yuma,AZ Yuma,Electronics Technician III,23183.0,Electronics Technician Maintenance III,34.78,SECRET,CBA,34.78
+Yuma,SCA,SCLS,SECRET,Engineering Technician VI,57360.0,11472.0,11472.0,11472.0,11472.0,11472.0,AZ_Yuma,AZ Yuma,Engineering Technician VI,30086.0,Engineering Technician VI,39.75,SECRET,SCLS,39.75
+Yuma,SCA,CBA,SECRET,Electronics Technician I,28680.0,5736.0,5736.0,5736.0,5736.0,5736.0,AZ_Yuma,AZ Yuma,Electronics Technician I,23181.0,Electronics Technician Maintenance I,29.19,SECRET,CBA,29.19
+Yuma,SCA,CBA,SECRET,Computer Systems Analyst II,9560.0,1912.0,1912.0,1912.0,1912.0,1912.0,AZ_Yuma,AZ Yuma,Computer Systems Analyst II,14102.0,Computer Systems Analyst II,(see 1),SECRET,CBA,75.0
+Yuma,SCA,CBA,SECRET,Computer Systems Analyst III,9560.0,1912.0,1912.0,1912.0,1912.0,1912.0,AZ_Yuma,AZ Yuma,Computer Systems Analyst III,14103.0,Computer Systems Analyst III,(see 1),SECRET,CBA,75.0
+Yuma,SCA,CBA,SECRET,General Maintenance Worker,9560.0,1912.0,1912.0,1912.0,1912.0,1912.0,AZ_Yuma,AZ Yuma,General Maintenance Worker,23370.0,General Maintenance Worker,19.36,SECRET,CBA,19.36
+Yuma,Non-SCA,Exempt,SECRET,Generator Technician III,9560.0,1912.0,1912.0,1912.0,1912.0,1912.0,,,,,,,,,65.0
+Yuma,SCA,SCLS,SECRET,"Heating, Ventilation and Air Conditioning",9560.0,1912.0,1912.0,1912.0,1912.0,1912.0,AZ_Yuma,AZ Yuma,"Heating, Ventilation and Air Conditioning",23410.0,"Heating, Ventilation And Air-Conditioning",25.35,SECRET,SCLS,25.35
+Yuma,SCA,CBA,SECRET,Heavy Equipment Mechanic/Operator,19120.0,3824.0,3824.0,3824.0,3824.0,3824.0,AZ_Yuma,AZ Yuma,Heavy Equipment Mechanic/Operator,23430.0,Heavy Equipment Mechanic,31.60,SECRET,CBA,31.6
+Yuma,Non-SCA,Exempt,SECRET,Maintenance Coordinator,19120.0,3824.0,3824.0,3824.0,3824.0,3824.0,,,,,,,,,80.0
+Yuma,Non-SCA,Exempt,SECRET,Logistician Analyst IV,9560.0,1912.0,1912.0,1912.0,1912.0,1912.0,,,,,,,,,75.0
+Yuma,SCA,CBA,SECRET,Supply Technician,19120.0,3824.0,3824.0,3824.0,3824.0,3824.0,AZ_Yuma,AZ Yuma,Supply Technician,1410.0,Supply Technician,28.25,SECRET,CBA,28.25
+Yuma,Non-SCA,Exempt,SECRET,Security Coordinator,38240.0,7648.0,7648.0,7648.0,7648.0,7648.0,,,,,,,,,70.0
+Yuma,Non-SCA,Exempt,SECRET,Quality Assurance/Safety Evaluator,9560.0,1912.0,1912.0,1912.0,1912.0,1912.0,,,,,,,,,75.0
+Yuma,Non-SCA,Exempt,SECRET,Site Manager,191.20000000000002,38.24,38.24,38.24,38.24,38.24,,,,,,,,,95.0
+Yuma,Non-SCA,Exempt,SECRET,Mission Coordinator,382.40000000000003,76.48,76.48,76.48,76.48,76.48,,,,,,,,,85.0
+Yuma,Non-SCA,Exempt,SECRET,"Mission Coordinator, Senior",191.20000000000002,38.24,38.24,38.24,38.24,38.24,,,,,,,,,95.0
+Yuma,SCA,CBA,SECRET,Computer Operator III,573.6,114.72,114.72,114.72,114.72,114.72,AZ_Yuma,AZ Yuma,Computer Operator III,14043.0,Computer Operator III,25.06,SECRET,CBA,25.06
+Yuma,SCA,CBA,SECRET,Computer Operator V,191.20000000000002,38.24,38.24,38.24,38.24,38.24,AZ_Yuma,AZ Yuma,Computer Operator V,14045.0,Computer Operator V,29.73,SECRET,CBA,29.73
+Yuma,Non-SCA,Exempt,SECRET,Tactical Data Link Analyst,191.20000000000002,38.24,38.24,38.24,38.24,38.24,,,,,,,,,75.0
+Yuma,SCA,SCLS,SECRET,Engineering Technician IV,573.6,114.72,114.72,114.72,114.72,114.72,AZ_Yuma,AZ Yuma,Engineering Technician IV,30084.0,Engineering Technician IV,26.87,SECRET,SCLS,26.87
+Yuma,SCA,CBA,SECRET,Electronics Technician II,2485.6000000000004,497.12,497.12,497.12,497.12,497.12,AZ_Yuma,AZ Yuma,Electronics Technician II,23182.0,Electronics Technician Maintenance II,32.67,SECRET,CBA,32.67
+Yuma,SCA,CBA,SECRET,Electronics Technician III,3059.2000000000003,611.84,611.84,611.84,611.84,611.84,AZ_Yuma,AZ Yuma,Electronics Technician III,23183.0,Electronics Technician Maintenance III,34.78,SECRET,CBA,34.78
+Yuma,SCA,SCLS,SECRET,Engineering Technician VI,1147.2,229.44,229.44,229.44,229.44,229.44,AZ_Yuma,AZ Yuma,Engineering Technician VI,30086.0,Engineering Technician VI,39.75,SECRET,SCLS,39.75
+Yuma,SCA,CBA,SECRET,Electronics Technician I,573.6,114.72,114.72,114.72,114.72,114.72,AZ_Yuma,AZ Yuma,Electronics Technician I,23181.0,Electronics Technician Maintenance I,29.19,SECRET,CBA,29.19
+Yuma,SCA,CBA,SECRET,Computer Systems Analyst II,191.20000000000002,38.24,38.24,38.24,38.24,38.24,AZ_Yuma,AZ Yuma,Computer Systems Analyst II,14102.0,Computer Systems Analyst II,(see 1),SECRET,CBA,75.0
+Yuma,SCA,CBA,SECRET,Computer Systems Analyst III,191.20000000000002,38.24,38.24,38.24,38.24,38.24,AZ_Yuma,AZ Yuma,Computer Systems Analyst III,14103.0,Computer Systems Analyst III,(see 1),SECRET,CBA,75.0
+Yuma,SCA,CBA,SECRET,General Maintenance Worker,191.20000000000002,38.24,38.24,38.24,38.24,38.24,AZ_Yuma,AZ Yuma,General Maintenance Worker,23370.0,General Maintenance Worker,19.36,SECRET,CBA,19.36
+Yuma,Non-SCA,Exempt,SECRET,Generator Technician III,191.20000000000002,38.24,38.24,38.24,38.24,38.24,,,,,,,,,65.0
+Yuma,SCA,SCLS,SECRET,"Heating, Ventilation and Air Conditioning",191.20000000000002,38.24,38.24,38.24,38.24,38.24,AZ_Yuma,AZ Yuma,"Heating, Ventilation and Air Conditioning",23410.0,"Heating, Ventilation And Air-Conditioning",25.35,SECRET,SCLS,25.35
+Yuma,SCA,CBA,SECRET,Heavy Equipment Mechanic/Operator,382.40000000000003,76.48,76.48,76.48,76.48,76.48,AZ_Yuma,AZ Yuma,Heavy Equipment Mechanic/Operator,23430.0,Heavy Equipment Mechanic,31.60,SECRET,CBA,31.6
+Yuma,Non-SCA,Exempt,SECRET,Maintenance Coordinator,382.40000000000003,76.48,76.48,76.48,76.48,76.48,,,,,,,,,80.0
+Yuma,Non-SCA,Exempt,SECRET,Logistician Analyst IV,191.20000000000002,38.24,38.24,38.24,38.24,38.24,,,,,,,,,75.0
+Yuma,SCA,CBA,SECRET,Supply Technician,382.40000000000003,76.48,76.48,76.48,76.48,76.48,AZ_Yuma,AZ Yuma,Supply Technician,1410.0,Supply Technician,28.25,SECRET,CBA,28.25
+Yuma,Non-SCA,Exempt,SECRET,Security Coordinator,764.8000000000001,152.96,152.96,152.96,152.96,152.96,,,,,,,,,70.0
+Yuma,Non-SCA,Exempt,SECRET,Quality Assurance/Safety Evaluator,191.20000000000002,38.24,38.24,38.24,38.24,38.24,,,,,,,,,75.0
+Miramar,Non-SCA,Exempt,SECRET,Site Lead,191.20000000000002,38.24,38.24,38.24,38.24,38.24,,,,,,,,,80.0
+Miramar,Non-SCA,Exempt,SECRET,Mission Coordinator,382.40000000000003,76.48,76.48,76.48,76.48,76.48,,,,,,,,,85.0
+Miramar,SCA,CBA,SECRET,Computer Operator III,573.6,114.72,114.72,114.72,114.72,114.72,CA_San_Diego,CA San Diego,Computer Operator III,14043.0,Computer Operator III,30.23,SECRET,CBA,30.23
+Miramar,SCA,CBA,SECRET,Computer Operator V,191.20000000000002,38.24,38.24,38.24,38.24,38.24,CA_San_Diego,CA San Diego,Computer Operator V,14045.0,Computer Operator V,37.21,SECRET,CBA,37.21
+Miramar,Non-SCA,Exempt,SECRET,Tactical Data Link Analyst,191.20000000000002,38.24,38.24,38.24,38.24,38.24,,,,,,,,,75.0
+Miramar,SCA,SCLS,SECRET,Engineering Technician IV,191.20000000000002,38.24,38.24,38.24,38.24,38.24,CA_San_Diego,CA San Diego,Engineering Technician IV,30084.0,Engineering Technician IV,32.53,SECRET,SCLS,32.53
+Miramar,SCA,CBA,SECRET,Electronics Technician II (INST),191.20000000000002,38.24,38.24,38.24,38.24,38.24,CA_San_Diego,CA San Diego,Electronics Technician II (INST),23182.0,Electronics Technician Maintenance II,36.22,SECRET,CBA,36.22
+Miramar,SCA,CBA,SECRET,Electronics Technician III,382.40000000000003,76.48,76.48,76.48,76.48,76.48,CA_San_Diego,CA San Diego,Electronics Technician III,23183.0,Electronics Technician Maintenance III,38.28,SECRET,CBA,38.28
+Miramar,SCA,CBA,SECRET,Computer Systems Analyst I,191.20000000000002,38.24,38.24,38.24,38.24,38.24,CA_San_Diego,CA San Diego,Computer Systems Analyst I,14101.0,Computer Systems Analyst I,(see 1),SECRET,CBA,75.0
+Miramar,SCA,CBA,SECRET,Computer Systems Analyst II,191.20000000000002,38.24,38.24,38.24,38.24,38.24,CA_San_Diego,CA San Diego,Computer Systems Analyst II,14102.0,Computer Systems Analyst II,(see 1),SECRET,CBA,75.0
+Miramar,Non-SCA,Exempt,SECRET,Security Coordinator,382.40000000000003,76.48,76.48,76.48,76.48,76.48,,,,,,,,,70.0
+El Centro,SCA,CBA,SECRET,Electronics Technician II,764.8000000000001,152.96,152.96,152.96,152.96,152.96,CA_Los_Angeles,CA Los Angeles,Electronics Technician II,23182.0,Electronics Technician Maintenance II,34.45,SECRET,CBA,34.45
+El Centro,SCA,CBA,SECRET,Electronics Technician III,573.6,114.72,114.72,114.72,114.72,114.72,CA_Los_Angeles,CA Los Angeles,Electronics Technician III,23183.0,Electronics Technician Maintenance III,36.58,SECRET,CBA,36.58
+Lemoore,Non-SCA,Exempt,SECRET,Site Lead,191.20000000000002,38.24,38.24,38.24,38.24,38.24,,,,,,,,,80.0
+Lemoore,Non-SCA,Exempt,SECRET,Mission Coordinator,764.8000000000001,152.96,152.96,152.96,152.96,152.96,,,,,,,,,85.0
+Lemoore,SCA,SCLS,SECRET,Computer Operator III,191.20000000000002,38.24,38.24,38.24,38.24,38.24,CA_Los_Angeles,CA Los Angeles,Computer Operator III,14043.0,Computer Operator III,28.91,SECRET,SCLS,28.91
+Lemoore,Non-SCA,Exempt,SECRET,Tactical Data Link Analyst,382.40000000000003,76.48,76.48,76.48,76.48,76.48,,,,,,,,,75.0
+Lemoore,SCA,CBA,SECRET,Electronics Technician III,1147.2,229.44,229.44,229.44,229.44,229.44,CA_Los_Angeles,CA Los Angeles,Electronics Technician III,23183.0,Electronics Technician Maintenance III,36.58,SECRET,CBA,36.58
+Lemoore,SCA,CBA,SECRET,Electronics Technician II,573.6,114.72,114.72,114.72,114.72,114.72,CA_Los_Angeles,CA Los Angeles,Electronics Technician II,23182.0,Electronics Technician Maintenance II,34.45,SECRET,CBA,34.45
+Lemoore,SCA,SCLS,SECRET,Engineering Technician IV,191.20000000000002,38.24,38.24,38.24,38.24,38.24,CA_Los_Angeles,CA Los Angeles,Engineering Technician IV,30084.0,Engineering Technician IV,31.97,SECRET,SCLS,31.97
+SCTTR,Non-SCA,Exempt,SECRET,Site Manager,191.20000000000002,38.24,38.24,38.24,38.24,38.24,,,,,,,,,95.0
+SCTTR,Non-SCA,Exempt,SECRET,Mission Coordinator,2868.0,573.6,573.6,573.6,573.6,573.6,,,,,,,,,85.0
+SCTTR,Non-SCA,Exempt,SECRET,"Mission Coordinator, Senior",382.40000000000003,76.48,76.48,76.48,76.48,76.48,,,,,,,,,95.0
+SCTTR,Non-SCA,Exempt,SECRET,Technical Support Specialist,1912.0000000000002,382.40000000000003,382.40000000000003,382.40000000000003,382.40000000000003,382.40000000000003,,,,,,,,,80.0
+SCTTR,SCA,SCLS,SECRET,Engineering Technician III,2103.2,420.64,420.64,420.64,420.64,420.64,SC_Beaufort,SC Beaufort,Engineering Technician III,30083.0,Engineering Technician III,21.02,SECRET,SCLS,21.02
+SCTTR,Non-SCA,Exempt,SECRET,Operations Analyst,3632.8,726.5600000000001,726.5600000000001,726.5600000000001,726.5600000000001,726.5600000000001,,,,,,,,,80.0
+SCTTR,SCA,CBA,SECRET,Electronics Technician III,4397.6,879.52,879.52,879.52,879.52,879.52,SC_Beaufort,SC Beaufort,Electronics Technician III,23183.0,Electronics Technician Maintenance III,28.42,SECRET,CBA,28.42
+SCTTR,SCA,CBA,SECRET,Engineering Technician V,1338.4,267.68,267.68,267.68,267.68,267.68,SC_Beaufort,SC Beaufort,Engineering Technician V,30085.0,Engineering Technician V,31.86,SECRET,CBA,31.86
+SCTTR,Non-SCA,Exempt,SECRET,Range Control Facilitator,1912.0000000000002,382.40000000000003,382.40000000000003,382.40000000000003,382.40000000000003,382.40000000000003,,,,,,,,,80.0
+SCTTR,SCA,CBA,SECRET,Electronics Technician II,4206.4,841.3,841.3,841.3,841.3,841.3,SC_Beaufort,SC Beaufort,Electronics Technician II,23182.0,Electronics Technician Maintenance II,26.88,SECRET,CBA,26.88
+SCTTR,SCA,SCLS,SECRET,Electronics Technician I,764.8000000000001,152.96,152.96,152.96,152.96,152.96,SC_Beaufort,SC Beaufort,Electronics Technician I,23181.0,Electronics Technician Maintenance I,25.43,SECRET,SCLS,25.43
+SCTTR,SCA,SCLS,SECRET,UXO Technician III,1147.2,229.44,229.44,229.44,229.44,229.44,SC_Beaufort,SC Beaufort,UXO Technician III,30493.0,Unexploded Ordnance (UXO) Technician III,42.46,SECRET,SCLS,42.46
+SCTTR,Non-SCA,Exempt,SECRET,Logistician Analyst IV,573.6,114.72,114.72,114.72,114.72,114.72,,,,,,,,,75.0
+SCTTR,SCA,SCLS,SECRET,Supply Technician,382.40000000000003,76.48,76.48,76.48,76.48,76.48,SC_Beaufort,SC Beaufort,Supply Technician,1410.0,Supply Technician,29.44,SECRET,SCLS,29.44
+SCTTR,Non-SCA,Exempt,SECRET,Security Coordinator,573.6,114.72,114.72,114.72,114.72,114.72,,,,,,,,,70.0
+SCTTR,Non-SCA,Exempt,SECRET,Quality Assurance/Safety Evaluator,191.20000000000002,38.24,38.24,38.24,38.24,38.24,,,,,,,,,75.0
+Fallon,Non-SCA,Exempt,SECRET,Site Manager,191.20000000000002,38.24,38.24,38.24,38.24,38.24,,,,,,,,,95.0
+Fallon,Non-SCA,CBA,SECRET,Mission Coordinator,1338.4,267.68,267.68,267.68,267.68,267.68,,,,,,,,,85.0
+Fallon,Non-SCA,CBA,SECRET,"Mission Coordinator, Senior",191.20000000000002,38.24,38.24,38.24,38.24,38.24,,,,,,,,,95.0
+Fallon,SCA,SCLS,SECRET,Computer Operator III,1147.2,229.44,229.44,229.44,229.44,229.44,NV_Fallon,NV Churchill/Douglas,Computer Operator III,14043.0,Computer Operator III,25.78,SECRET,SCLS,25.78
+Fallon,SCA,SCLS,SECRET,Computer Operator IV,191.20000000000002,38.24,38.24,38.24,38.24,38.24,NV_Fallon,NV Churchill/Douglas,Computer Operator IV,14044.0,Computer Operator IV,28.66,SECRET,SCLS,28.66
+Fallon,Non-SCA,Exempt,SECRET,Tactical Data Link Analyst,764.8000000000001,152.96,152.96,152.96,152.96,152.96,,,,,,,,,75.0
+Fallon,Non-SCA,CBA,SECRET,Range Control Officer,956.0000000000001,191.20000000000002,191.20000000000002,191.20000000000002,191.20000000000002,191.20000000000002,,,,,,,,,80.0
+Fallon,Non-SCA,CBA,SECRET,"Range Control Officer, Senior",191.20000000000002,38.24,38.24,38.24,38.24,38.24,,,,,,,,,90.0
+Fallon,SCA,SCLS,SECRET,Electronics Technician II,9560.000000000002,1912.0000000000002,1912.0000000000002,1912.0000000000002,1912.0000000000002,1912.0000000000002,NV_Fallon,NV Churchill/Douglas,Electronics Technician II,23182.0,Electronics Technician Maintenance II,37.93,SECRET,SCLS,37.93
+Fallon,SCA,SCLS,SECRET,Electronics Technician III,6118.4,1223.68,1223.68,1223.68,1223.68,1223.68,NV_Fallon,NV Churchill/Douglas,Electronics Technician III,23183.0,Electronics Technician Maintenance III,39.89,SECRET,SCLS,39.89
+Fallon,SCA,SCLS,SECRET,Engineering Technician V,1720.8000000000002,344.16,344.16,344.16,344.16,344.16,NV_Fallon,NV Churchill/Douglas,Engineering Technician V,30085.0,Engineering Technician V,33.91,SECRET,SCLS,33.91
+Fallon,SCA,SCLS,SECRET,Engineering Technician VI,764.8000000000001,152.96,152.96,152.96,152.96,152.96,NV_Fallon,NV Churchill/Douglas,Engineering Technician VI,30086.0,Engineering Technician VI,41.03,SECRET,SCLS,41.03
+Fallon,SCA,CBA,SECRET,UXO Technician II,1720.8000000000002,344.16,344.16,344.16,344.16,344.16,NV_Fallon,NV Churchill/Douglas,UXO Technician II,30492.0,Unexploded Ordnance (UXO) Technician II,36.19,SECRET,CBA,36.19
+Fallon,SCA,CBA,SECRET,UXO Technician III,1147.2,229.44,229.44,229.44,229.44,229.44,NV_Fallon,NV Churchill/Douglas,UXO Technician III,30493.0,Unexploded Ordnance (UXO) Technician III,43.37,SECRET,CBA,43.37
+Fallon,Non-SCA,Exempt,SECRET,Electrician,191.20000000000002,38.24,38.24,38.24,38.24,38.24,,,,,,,,,65.0
+Fallon,SCA,CBA,SECRET,General Maintenance Worker,573.6,114.72,114.72,114.72,114.72,114.72,NV_Fallon,NV Churchill/Douglas,General Maintenance Worker,23370.0,General Maintenance Worker,24.08,SECRET,CBA,24.08
+Fallon,Non-SCA,Exempt,SECRET,Generator Technician II,382.40000000000003,76.48,76.48,76.48,76.48,76.48,,,,,,,,,55.0
+Fallon,Non-SCA,Exempt,SECRET,Generator Technician III,764.8000000000001,152.96,152.96,152.96,152.96,152.96,,,,,,,,,65.0
+Fallon,SCA,SCLS,SECRET,"Heating, Ventilation and Air Conditioning",191.20000000000002,38.24,38.24,38.24,38.24,38.24,NV_Fallon,NV Churchill/Douglas,"Heating, Ventilation and Air Conditioning",23410.0,"Heating, Ventilation And Air-Conditioning",29.04,SECRET,SCLS,29.04
+Fallon,SCA,CBA,SECRET,Heavy Equipment Mechanic/Operator,1529.6000000000001,305.92,305.92,305.92,305.92,305.92,NV_Fallon,NV Churchill/Douglas,Heavy Equipment Mechanic/Operator,23430.0,Heavy Equipment Mechanic,40.62,SECRET,CBA,40.62
+Fallon,SCA,CBA,SECRET,Machinist,191.20000000000002,38.24,38.24,38.24,38.24,38.24,NV_Fallon,NV Churchill/Douglas,Machinist,23550.0,"Machinist, Maintenance",27.23,SECRET,CBA,27.23
+Fallon,SCA,CBA,SECRET,Motor Vehicle Mechanic,191.20000000000002,38.24,38.24,38.24,38.24,38.24,NV_Fallon,NV Churchill/Douglas,Motor Vehicle Mechanic,5190.0,Motor Vehicle Mechanic,28.56,SECRET,CBA,28.56
+Fallon,SCA,CBA,SECRET,Automotive Worker,191.20000000000002,38.24,38.24,38.24,38.24,38.24,NV_Fallon,NV Churchill/Douglas,Automotive Worker,5070.0,Automotive Worker,25.75,SECRET,CBA,25.75
+Fallon,SCA,CBA,SECRET,METROLOGY TECHNICIAN I,191.20000000000002,38.24,38.24,38.24,38.24,38.24,NV_Fallon,NV Churchill/Douglas,METROLOGY TECHNICIAN I,23591.0,Metrology Technician I,35.38,SECRET,CBA,35.38
+Fallon,Non-SCA,CBA,SECRET,Surveyor ,191.20000000000002,38.24,38.24,38.24,38.24,38.24,,,,,,,,,80.0
+Fallon,Non-SCA,Exempt,SECRET,Maintenance Coordinator,573.6,114.72,114.72,114.72,114.72,114.72,,,,,,,,,80.0
+Fallon,Non-SCA,Exempt,SECRET,Logistician Analyst IV,191.20000000000002,38.24,38.24,38.24,38.24,38.24,,,,,,,,,75.0
+Fallon,SCA,CBA,SECRET,Supply Technician,573.6,114.72,114.72,114.72,114.72,114.72,NV_Fallon,NV Churchill/Douglas,Supply Technician,1410.0,Supply Technician,30.26,SECRET,CBA,30.26
+Fallon,Non-SCA,Exempt,SECRET,Security Coordinator,1338.4,267.68,267.68,267.68,267.68,267.68,,,,,,,,,70.0
+Fallon,Non-SCA,CBA,SECRET,Quality Assurance/Safety Evaluator,1147.2,229.44000000000003,229.44000000000003,229.44000000000003,229.44000000000003,229.44000000000003,,,,,,,,,75.0
+Fallon,Non-SCA,Exempt,SECRET,Quality Control Inspector,191.20000000000002,38.24,38.24,38.24,38.24,38.24,,,,,,,,,80.0
+PNW,Non-SCA,Exempt,SECRET,Site Lead,191.20000000000002,38.24,38.24,38.24,38.24,38.24,,,,,,,,,80.0
+PNW,Non-SCA,Exempt,SECRET,Mission Coordinator,764.8000000000001,152.96,152.96,152.96,152.96,152.96,,,,,,,,,85.0
+PNW,Non-SCA,Exempt,SECRET,"Mission Coordinator, Senior",382.40000000000003,76.48,76.48,76.48,76.48,76.48,,,,,,,,,95.0
+PNW,Non-SCA,Exempt,SECRET,Technical Support Specialist,573.6,114.72,114.72,114.72,114.72,114.72,,,,,,,,,80.0
+PNW,Non-SCA,Exempt,SECRET,Tactical Data Link Analyst,382.40000000000003,76.48,76.48,76.48,76.48,76.48,,,,,,,,,75.0
+PNW,SCA,SCLS,SECRET,Engineering Technician IV,764.8000000000001,152.96,152.96,152.96,152.96,152.96,WA_Grays_Harbor,WA Grays Harbor,Engineering Technician IV,30084.0,Engineering Technician IV,31.22,SECRET,SCLS,31.22
+PNW,SCA,SCLS,SECRET,Electronics Technician I,1147.2,229.44,229.44,229.44,229.44,229.44,WA_Grays_Harbor,WA Grays Harbor,Electronics Technician I,23181.0,Electronics Technician Maintenance I,35.77,SECRET,SCLS,35.77
+PNW,SCA,SCLS,SECRET,Electronics Technician III,1338.4,267.68,267.68,267.68,267.68,267.68,WA_Grays_Harbor,WA Grays Harbor,Electronics Technician III,23183.0,Electronics Technician Maintenance III,39.28,SECRET,SCLS,39.28
+PNW,SCA,SCLS,SECRET,Engineering Technician V,2103.2,420.64,420.64,420.64,420.64,420.64,WA_Grays_Harbor,WA Grays Harbor,Engineering Technician V,30085.0,Engineering Technician V,38.19,SECRET,SCLS,38.19
+PNW,SCA,SCLS,SECRET,Supply Technician,191.20000000000002,38.24,38.24,38.24,38.24,38.24,WA_Grays_Harbor,WA Grays Harbor,Supply Technician,1410.0,Supply Technician,34.00,SECRET,SCLS,34.0
+PNW,Non-SCA,Exempt,SECRET,Security Coordinator,382.40000000000003,76.48,76.48,76.48,76.48,76.48,,,,,,,,,70.0
+PNW,Non-SCA,Exempt,SECRET,Quality Assurance/Safety Evaluator,191.20000000000002,38.24,38.24,38.24,38.24,38.24,,,,,,,,,75.0
+Beaufort,Non-SCA,Exempt,SECRET,Site Manager,191.20000000000002,38.24,38.24,38.24,38.24,38.24,,,,,,,,,95.0
+Beaufort,Non-SCA,Exempt,SECRET,Mission Coordinator,382.4,76.48,76.48,76.48,76.48,76.48,,,,,,,,,85.0
+Beaufort,Non-SCA,Exempt,SECRET,"Mission Coordinator, Senior",191.20000000000002,38.24,38.24,38.24,38.24,38.24,,,,,,,,,95.0
+Beaufort,SCA,SCLS,SECRET,Computer Operator V,764.8000000000001,152.96,152.96,152.96,152.96,152.96,SC_Beaufort,SC Beaufort,Computer Operator V,14045.0,Computer Operator V,31.62,SECRET,SCLS,31.62
+Beaufort,SCA,SCLS,SECRET,Electronics Technician III,1147.2,229.44,229.44,229.44,229.44,229.44,SC_Beaufort,SC Beaufort,Electronics Technician III,23183.0,Electronics Technician Maintenance III,28.42,SECRET,SCLS,28.42
+Beaufort,SCA,SCLS,SECRET,Engineering Technician V,191.20000000000002,38.24,38.24,38.24,38.24,38.24,SC_Beaufort,SC Beaufort,Engineering Technician V,30085.0,Engineering Technician V,31.86,SECRET,SCLS,31.86
+Beaufort,SCA,SCLS,SECRET,Supply Technician,191.20000000000002,38.24,38.24,38.24,38.24,38.24,SC_Beaufort,SC Beaufort,Supply Technician,1410.0,Supply Technician,29.44,SECRET,SCLS,29.44
+Beaufort,Non-SCA,Exempt,SECRET,Security Coordinator,191.20000000000002,38.24,38.24,38.24,38.24,38.24,,,,,,,,,70.0
+Beaufort,Non-SCA,Exempt,SECRET,Quality Assurance/Safety Evaluator,382.40000000000003,76.48,76.48,76.48,76.48,76.48,,,,,,,,,75.0
+CP,Non-SCA,Exempt,SECRET,Site Manager,191.20000000000002,38.24,38.24,38.24,38.24,38.24,,,,,,,,,95.0
+CP,Non-SCA,Exempt,SECRET,Mission Coordinator,382.40000000000003,76.48,76.48,76.48,76.48,76.48,,,,,,,,,85.0
+CP,Non-SCA,Exempt,SECRET,"Mission Coordinator, Senior",191.20000000000002,38.24,38.24,38.24,38.24,38.24,,,,,,,,,95.0
+CP,SCA,SCLS,SECRET,Computer Operator IV,191.20000000000002,38.24,38.24,38.24,38.24,38.24,CA_San_Diego,CA San Diego,Computer Operator IV,14044.0,Computer Operator IV,33.60,SECRET,SCLS,33.6
+CP,SCA,CBA,SECRET,Computer Operator V,382.40000000000003,76.48,76.48,76.48,76.48,76.48,CA_San_Diego,CA San Diego,Computer Operator V,14045.0,Computer Operator V,37.21,SECRET,CBA,37.21
+CP,Non-SCA,Exempt,SECRET,Tactical Data Link Analyst,191.20000000000002,38.24,38.24,38.24,38.24,38.24,,,,,,,,,75.0
+CP,SCA,CBA,SECRET,Engineering Technician IV,191.20000000000002,38.24,38.24,38.24,38.24,38.24,CA_San_Diego,CA San Diego,Engineering Technician IV,30084.0,Engineering Technician IV,32.53,SECRET,CBA,32.53
+CP,SCA,SCLS,SECRET,Electronics Technician II,2676.8,535.36,535.36,535.36,535.36,535.36,CA_San_Diego,CA San Diego,Electronics Technician II,23182.0,Electronics Technician Maintenance II,36.22,SECRET,SCLS,36.22
+CP,SCA,SCLS,SECRET,Electronics Technician III,3632.7999999999997,726.5600000000001,726.5600000000001,726.5600000000001,726.5600000000001,726.5600000000001,CA_San_Diego,CA San Diego,Electronics Technician III,23183.0,Electronics Technician Maintenance III,38.28,SECRET,SCLS,38.28
+CP,SCA,SCLS,SECRET,Engineering Technician V,956.0,191.2,191.2,191.2,191.2,191.2,CA_San_Diego,CA San Diego,Engineering Technician V,30085.0,Engineering Technician V,39.78,SECRET,SCLS,39.78
+CP,SCA,SCLS,SECRET,Engineering Technician VI,573.6,114.72,114.72,114.72,114.72,114.72,CA_San_Diego,CA San Diego,Engineering Technician VI,30086.0,Engineering Technician VI,48.13,SECRET,SCLS,48.13
+CP,Non-SCA,Exempt,SECRET,Electrician,191.20000000000002,38.24,38.24,38.24,38.24,38.24,,,,,,,,,65.0
+CP,SCA,SCLS,SECRET,General Maintenance Worker,764.8000000000001,152.96,152.96,152.96,152.96,152.96,CA_San_Diego,CA San Diego,General Maintenance Worker,23370.0,General Maintenance Worker,24.83,SECRET,SCLS,24.83
+CP,SCA,SCLS,SECRET,"Heating, Ventilation and Air Conditioning",191.20000000000002,38.24,38.24,38.24,38.24,38.24,CA_San_Diego,CA San Diego,"Heating, Ventilation and Air Conditioning",23410.0,"Heating, Ventilation And Air-Conditioning",32.86,SECRET,SCLS,32.86
+CP,SCA,CBA,SECRET,Heavy Equipment Mechanic/Operator,573.6,114.72,114.72,114.72,114.72,114.72,CA_San_Diego,CA San Diego,Heavy Equipment Mechanic/Operator,23430.0,Heavy Equipment Mechanic,35.52,SECRET,CBA,35.52
+CP,Non-SCA,Exempt,SECRET,Maintenance Coordinator,382.40000000000003,76.48,76.48,76.48,76.48,76.48,,,,,,,,,80.0
+CP,Non-SCA,Exempt,SECRET,Logistician Analyst IV,191.20000000000002,38.24,38.24,38.24,38.24,38.24,,,,,,,,,75.0
+CP,SCA,CBA,SECRET,Supply Technician,573.6,114.72,114.72,114.72,114.72,114.72,CA_San_Diego,CA San Diego,Supply Technician,1410.0,Supply Technician,39.73,SECRET,CBA,39.73
+CP,Non-SCA,Exempt,SECRET,Security Coordinator,191.20000000000002,38.24,38.24,38.24,38.24,38.24,,,,,,,,,70.0
+CP,Non-SCA,Exempt,SECRET,Quality Assurance/Safety Evaluator,191.20000000000002,38.24,38.24,38.24,38.24,38.24,,,,,,,,,75.0
+Navy Dare,Non-SCA,Exempt,SECRET,Site Manager,191.20000000000002,38.24,38.24,38.24,38.24,38.24,,,,,,,,,95.0
+Navy Dare,Non-SCA,Exempt,SECRET,"Mission Coordinator, Senior",191.20000000000002,38.24,38.24,38.24,38.24,38.24,,,,,,,,,95.0
+Navy Dare,Non-SCA,Exempt,SECRET,Technical Support Specialist,956.0000000000001,191.20000000000002,191.20000000000002,191.20000000000002,191.20000000000002,191.20000000000002,,,,,,,,,80.0
+Navy Dare,SCA,CBA,SECRET,Electronics Technician III,573.6,114.72,114.72,114.72,114.72,114.72,NC_Dare,NC Dare County,Electronics Technician III,23183.0,Electronics Technician Maintenance III,41.20,SECRET,CBA,41.2
+Navy Dare,SCA,SCLS,SECRET,Engineering Technician V,382.40000000000003,76.48,76.48,76.48,76.48,76.48,NC_Dare,NC Dare County,Engineering Technician V,30085.0,Engineering Technician V,30.12,SECRET,SCLS,30.12
+Navy Dare,SCA,CBA,SECRET,General Maintenance Worker,191.20000000000002,38.24,38.24,38.24,38.24,38.24,NC_Dare,NC Dare County,General Maintenance Worker,23370.0,General Maintenance Worker,21.19,SECRET,CBA,21.19
+Navy Dare,SCA,SCLS,SECRET,Motor Vehicle Mechanic,191.20000000000002,38.24,38.24,38.24,38.24,38.24,NC_Dare,NC Dare County,Motor Vehicle Mechanic,5190.0,Motor Vehicle Mechanic,22.17,SECRET,SCLS,22.17
+Navy Dare,Non-SCA,Exempt,SECRET,Logistician Analyst IV,191.20000000000002,38.24,38.24,38.24,38.24,38.24,,,,,,,,,75.0
+Navy Dare,Non-SCA,Exempt,SECRET,Quality Assurance/Safety Evaluator,191.20000000000002,38.24,38.24,38.24,38.24,38.24,,,,,,,,,75.0
+Pinecastle,Non-SCA,Exempt,SECRET,Site Manager,191.20000000000002,38.24,38.24,38.24,38.24,38.24,,,,,,,,,95.0
+Pinecastle,Non-SCA,Exempt,SECRET,Technical Lead,191.20000000000002,38.24,38.24,38.24,38.24,38.24,,,,,,,,,80.0
+Pinecastle,Non-SCA,Exempt,SECRET,"Mission Coordinator, Senior",191.20000000000002,38.24,38.24,38.24,38.24,38.24,,,,,,,,,95.0
+Pinecastle,Non-SCA,Exempt,SECRET,Technical Support Specialist,956.0000000000001,191.20000000000002,191.20000000000002,191.20000000000002,191.20000000000002,191.20000000000002,,,,,,,,,80.0
+Pinecastle,SCA,SCLS,SECRET,Electronics Technician III,1338.4,267.68,267.68,267.68,267.68,267.68,FL_Lake,FL Lake County,Electronics Technician III,23183.0,Electronics Technician Maintenance III,29.80,SECRET,SCLS,29.8
+Pinecastle,Non-SCA,Exempt,SECRET,Logistician Analyst IV,191.20000000000002,38.24,38.24,38.24,38.24,38.24,,,,,,,,,75.0
+Pinecastle,Non-SCA,Exempt,SECRET,Quality Assurance/Safety Evaluator,191.20000000000002,38.24,38.24,38.24,38.24,38.24,,,,,,,,,75.0
+Pinecastle,Non-SCA,Exempt,SECRET,Quality Control,191.20000000000002,38.24,38.24,38.24,38.24,38.24,,,,,,,,,80.0
+Key West,Non-SCA,Exempt,SECRET,Site Manager,191.20000000000002,38.24,38.24,38.24,38.24,38.24,,,,,,,,,95.0
+Key West,Non-SCA,Exempt,SECRET,Mission Coordinator,191.20000000000002,38.24,38.24,38.24,38.24,38.24,,,,,,,,,85.0
+Key West,Non-SCA,Exempt,SECRET,"Mission Coordinator, Senior",191.20000000000002,38.24,38.24,38.24,38.24,38.24,,,,,,,,,95.0
+Key West,SCA,CBA,SECRET,Computer Operator IV,382.40000000000003,76.48,76.48,76.48,76.48,76.48,FL_Monroe,FL Monroe (Keys),Computer Operator IV,14044.0,Computer Operator IV,33.31,SECRET,CBA,33.31
+Key West,SCA,SCLS,SECRET,Computer Operator V,382.40000000000003,76.48,76.48,76.48,76.48,76.48,FL_Monroe,FL Monroe (Keys),Computer Operator V,14045.0,Computer Operator V,36.88,SECRET,SCLS,36.88
+Key West,Non-SCA,Exempt,SECRET,Tactical Data Link Analyst,382.40000000000003,76.48,76.48,76.48,76.48,76.48,,,,,,,,,75.0
+Key West,SCA,SCLS,SECRET,Engineering Technician IV,573.6,114.72,114.72,114.72,114.72,114.72,FL_Monroe,FL Monroe (Keys),Engineering Technician IV,30084.0,Engineering Technician IV,28.52,SECRET,SCLS,28.52
+Key West,SCA,CBA,SECRET,Engineering Technician V,573.6,114.72,114.72,114.72,114.72,114.72,FL_Monroe,FL Monroe (Keys),Engineering Technician V,30085.0,Engineering Technician V,34.88,SECRET,CBA,34.88
+Key West,Non-SCA,Exempt,SECRET,Logistician Analyst IV,191.20000000000002,38.24,38.24,38.24,38.24,38.24,,,,,,,,,75.0
+Key West,Non-SCA,Exempt,SECRET,Security Coordinator,573.6,114.72,114.72,114.72,114.72,114.72,,,,,,,,,70.0
+Key West,Non-SCA,Exempt,SECRET,Quality Assurance/Safety Evaluator,191.20000000000002,38.24,38.24,38.24,38.24,38.24,,,,,,,,,75.0
+JAX,Non-SCA,Exempt,SECRET,Site Manager,191.20000000000002,38.24,38.24,38.24,38.24,38.24,,,,,,,,,95.0
+JAX,Non-SCA,Exempt,SECRET,Mission Coordinator,191.20000000000002,38.24,38.24,38.24,38.24,38.24,,,,,,,,,85.0
+JAX,Non-SCA,Exempt,SECRET,"Mission Coordinator, Senior",191.20000000000002,38.24,38.24,38.24,38.24,38.24,,,,,,,,,95.0
+JAX,Non-SCA,Exempt,SECRET,Operations Analyst,382.40000000000003,76.48,76.48,76.48,76.48,76.48,,,,,,,,,80.0
+JAX,SCA,CBA,SECRET,Electronics Technician III,764.8000000000001,152.96,152.96,152.96,152.96,152.96,FL_Jacksonville,FL Jacksonville,Electronics Technician III,23183.0,Electronics Technician Maintenance III,30.79,SECRET,CBA,30.79
+JAX,SCA,SCLS,SECRET,Engineering Technician IV,573.6,114.72,114.72,114.72,114.72,114.72,FL_Jacksonville,FL Jacksonville,Engineering Technician IV,30084.0,Engineering Technician IV,27.46,SECRET,SCLS,27.46
+JAX,SCA,CBA,SECRET,Engineering Technician V,1147.2,229.44,229.44,229.44,229.44,229.44,FL_Jacksonville,FL Jacksonville,Engineering Technician V,30085.0,Engineering Technician V,33.59,SECRET,CBA,33.59
+JAX,SCA,SCLS,SECRET,Engineering Technician VI,382.40000000000003,76.48,76.48,76.48,76.48,76.48,FL_Jacksonville,FL Jacksonville,Engineering Technician VI,30086.0,Engineering Technician VI,40.64,SECRET,SCLS,40.64
+JAX,Non-SCA,Exempt,SECRET,Logistician Analyst IV,191.20000000000002,38.24,38.24,38.24,38.24,38.24,,,,,,,,,75.0
+JAX,Non-SCA,Exempt,SECRET,Quality Assurance/Safety Evaluator,191.20000000000002,38.24,38.24,38.24,38.24,38.24,,,,,,,,,75.0
+Oceana,Non-SCA,Exempt,SECRET,Site Manager,191.20000000000002,38.24,38.24,38.24,38.24,38.24,,,,,,,,,95.0
+Oceana,Non-SCA,Exempt,SECRET,Mission Coordinator,191.20000000000002,38.24,38.24,38.24,38.24,38.24,,,,,,,,,85.0
+Oceana,Non-SCA,Exempt,SECRET,"Mission Coordinator, Senior",191.20000000000002,38.24,38.24,38.24,38.24,38.24,,,,,,,,,95.0
+Oceana,Non-SCA,Exempt,SECRET,Technical Support Specialist,191.20000000000002,38.24,38.24,38.24,38.24,38.24,,,,,,,,,80.0
+Oceana,SCA,CBA,SECRET,Computer Operator V,382.40000000000003,76.48,76.48,76.48,76.48,76.48,VA_NC_Hampton,NC/VA Hampton Roads,Computer Operator V,14045.0,Computer Operator V,28.83,SECRET,CBA,28.83
+Oceana,Non-SCA,Exempt,SECRET,Operations Analyst,191.20000000000002,38.24,38.24,38.24,38.24,38.24,,,,,,,,,80.0
+Oceana,Non-SCA,Exempt,SECRET,Tactical Data Link Analyst,191.20000000000002,38.24,38.24,38.24,38.24,38.24,,,,,,,,,75.0
+Oceana,SCA,CBA,SECRET,Engineering Technician IV,2294.4,458.88,458.88,458.88,458.88,458.88,VA_NC_Hampton,NC/VA Hampton Roads,Engineering Technician IV,30084.0,Engineering Technician IV,30.81,SECRET,CBA,30.81
+Oceana,SCA,CBA,SECRET,Engineering Technician V,1338.4,267.68,267.68,267.68,267.68,267.68,VA_NC_Hampton,NC/VA Hampton Roads,Engineering Technician V,30085.0,Engineering Technician V,37.68,SECRET,CBA,37.68
+Oceana,Non-SCA,Exempt,SECRET,Maintenance Coordinator,191.20000000000002,38.24,38.24,38.24,38.24,38.24,,,,,,,,,80.0
+Oceana,Non-SCA,Exempt,SECRET,Logistician Analyst IV,573.6,114.72,114.72,114.72,114.72,114.72,,,,,,,,,75.0
+Oceana,Non-SCA,Exempt,SECRET,Security Coordinator,382.40000000000003,76.48,76.48,76.48,76.48,76.48,,,,,,,,,70.0
+Oceana,Non-SCA,Exempt,SECRET,Quality Assurance/Safety Evaluator,382.40000000000003,76.48,76.48,76.48,76.48,76.48,,,,,,,,,75.0
+Hefti,Non-SCA,Exempt,SECRET,Mission Coordinator,5353.6,1070.72,1070.72,1070.72,1070.72,1070.72,,,,,,,,,85.0
+Hefti,Non-SCA,Exempt,SECRET,"Mission Coordinator, Senior",1338.4,267.68,267.68,267.68,267.68,267.68,,,,,,,,,95.0
+Hefti,Non-SCA,Exempt,SECRET,Network Administrator III,191.20000000000002,38.24,38.24,38.24,38.24,38.24,,,,,,,,,80.0
+Hefti,Non-SCA,Exempt,SECRET,Network Administrator IV,8221.6,1644.3200000000002,1644.3200000000002,1644.3200000000002,1644.3200000000002,1644.3200000000002,,,,,,,,,80.0
+Hefti,Non-SCA,Exempt,SECRET,Network Administrator V,382.40000000000003,76.48,76.48,76.48,76.48,76.48,,,,,,,,,80.0
+Hefti,SCA,SCLS,SECRET,Computer Operator IV,1147.2,229.44,229.44,229.44,229.44,229.44,UNKNOWN,,Computer Operator IV,14044.0,,,SECRET,SCLS,80.0
+Hefti,Non-SCA,Exempt,SECRET,Tactical Data Link Analyst,2676.8,535.36,535.36,535.36,535.36,535.36,,,,,,,,,75.0
+Hefti,SCA,CBA,SECRET,Electronics Technician II,1338.4,267.68,267.68,267.68,267.68,267.68,UNKNOWN,,Electronics Technician II,23182.0,,,SECRET,CBA,80.0
+Hefti,SCA,SCLS,SECRET,Engineering Technician IV,7074.400000000001,1414.88,1414.88,1414.88,1414.88,1414.88,UNKNOWN,,Engineering Technician IV,30084.0,,,SECRET,SCLS,80.0
+Hefti,SCA,SCLS,SECRET,Engineering Technician V,3632.8,726.5600000000001,726.5600000000001,726.5600000000001,726.5600000000001,726.5600000000001,UNKNOWN,,Engineering Technician V,30085.0,,,SECRET,SCLS,80.0
+Hefti,Non-SCA,Exempt,SECRET,Maintenance Coordinator,573.6,114.72,114.72,114.72,114.72,114.72,,,,,,,,,80.0
+Hefti,Non-SCA,Exempt,SECRET,Security Coordinator,1529.6000000000001,305.92,305.92,305.92,305.92,305.92,,,,,,,,,70.0
+NCAMS,Non-SCA,Exempt,SECRET,Site Manager,191.20000000000002,38.24,38.24,38.24,38.24,38.24,,,,,,,,,95.0
+NCAMS,Non-SCA,Exempt,SECRET,Technical Coordinator,764.8000000000001,152.96,152.96,152.96,152.96,152.96,,,,,,,,,80.0
+NCAMS,Non-SCA,Exempt,SECRET,Operations Analyst,191.20000000000002,38.24,38.24,38.24,38.24,38.24,,,,,,,,,80.0
+NCAMS,Non-SCA,Exempt,SECRET,Tactical Data Link Analyst,191.20000000000002,38.24,38.24,38.24,38.24,38.24,,,,,,,,,75.0
+NCAMS,Non-SCA,Exempt,SECRET,Network Analyst IV,382.40000000000003,76.48,76.48,76.48,76.48,76.48,,,,,,,,,80.0
+NCAMS,SCA,SCLS,SECRET,Computer Systems Analyst II,382.40000000000003,76.48,76.48,76.48,76.48,76.48,NC_Craven,NC Craven County,Computer Systems Analyst II,14102.0,Computer Systems Analyst II,(see 1),SECRET,SCLS,75.0
+NCAMS,SCA,SCLS,SECRET,Computer Operator IV,764.8000000000001,152.96,152.96,152.96,152.96,152.96,NC_Craven,NC Craven County,Computer Operator IV,14044.0,Computer Operator IV,23.82,SECRET,SCLS,23.82
+TTGP,Non-SCA,Exempt,SECRET,Site Manager,191.20000000000002,38.24,38.24,38.24,38.24,38.24,,,,,,,,,95.0
+TTGP,Non-SCA,Exempt,SECRET,"Mission Coordinator, Senior",191.20000000000002,38.24,38.24,38.24,38.24,38.24,,,,,,,,,95.0
+TTGP,Non-SCA,Exempt,SECRET,Mission Coordinator,1912.0000000000002,382.40000000000003,382.40000000000003,382.40000000000003,382.40000000000003,382.40000000000003,,,,,,,,,85.0
+TTGP,Non-SCA,Exempt,SECRET,Network Administrator III,1338.4,267.68,267.68,267.68,267.68,267.68,,,,,,,,,80.0
+TTGP,Non-SCA,Exempt,SECRET,Network Administrator IV,4015.2000000000003,803.04,803.04,803.04,803.04,803.04,,,,,,,,,80.0
+TTGP,Non-SCA,Exempt,SECRET,Network Administrator V,764.8000000000001,152.96,152.96,152.96,152.96,152.96,,,,,,,,,80.0
+TTGP,SCA,CBA,SECRET,Engineering Technician III,1338.4,267.68,267.68,267.68,267.68,267.68,UNKNOWN,,Engineering Technician III,30083.0,,,SECRET,CBA,80.0
+MTEN - 29 Palms,Non-SCA,Exempt,SECRET,Cybersecurity Analyst III,63.73333333333334,12.746666666666668,12.746666666666668,12.746666666666668,12.746666666666668,12.746666666666668,,,,,,,,,80.0
+MTEN - 29 Palms,Non-SCA,Exempt,SECRET,Cybersecurity Analyst IV,63.73333333333334,12.746666666666668,12.746666666666668,12.746666666666668,12.746666666666668,12.746666666666668,,,,,,,,,80.0
+MTEN - 29 Palms,Non-SCA,Exempt,SECRET,Mission Coordinator,223.0666666666667,44.61333333333334,44.61333333333334,44.61333333333334,44.61333333333334,44.61333333333334,,,,,,,,,85.0
+MTEN - 29 Palms,Non-SCA,Exempt,SECRET,Network Administrator III,127.46666666666668,25.493333333333336,25.493333333333336,25.493333333333336,25.493333333333336,25.493333333333336,,,,,,,,,80.0
+MTEN - 29 Palms,Non-SCA,Exempt,SECRET,Network Administrator IV,573.5999999999999,114.71999999999998,114.71999999999998,114.71999999999998,114.71999999999998,114.71999999999998,,,,,,,,,80.0
+MTEN - 29 Palms,Non-SCA,Exempt,SECRET,Network Engineer IV,223.0666666666667,44.61333333333334,44.61333333333334,44.61333333333334,44.61333333333334,44.61333333333334,,,,,,,,,95.0
+MTEN - 29 Palms,Non-SCA,Exempt,SECRET,Tactical Data Link Analyst,223.0666666666667,44.61333333333334,44.61333333333334,44.61333333333334,44.61333333333334,44.61333333333334,,,,,,,,,75.0
+MTEN - 29 Palms,Non-SCA,Exempt,SECRET,Technical Support Specialist,446.1333333333334,89.22666666666667,89.22666666666667,89.22666666666667,89.22666666666667,89.22666666666667,,,,,,,,,80.0
+MTEN - Camp Lejeune,Non-SCA,Exempt,SECRET,Cybersecurity Analyst III,63.73333333333334,12.746666666666668,12.746666666666668,12.746666666666668,12.746666666666668,12.746666666666668,,,,,,,,,80.0
+MTEN - Camp Lejeune,Non-SCA,Exempt,SECRET,Cybersecurity Analyst IV,63.73333333333334,12.746666666666668,12.746666666666668,12.746666666666668,12.746666666666668,12.746666666666668,,,,,,,,,80.0
+MTEN - Camp Lejeune,Non-SCA,Exempt,SECRET,Mission Coordinator,223.0666666666667,44.61333333333334,44.61333333333334,44.61333333333334,44.61333333333334,44.61333333333334,,,,,,,,,85.0
+MTEN - Camp Lejeune,Non-SCA,Exempt,SECRET,Network Administrator III,127.46666666666668,25.493333333333336,25.493333333333336,25.493333333333336,25.493333333333336,25.493333333333336,,,,,,,,,80.0
+MTEN - Camp Lejeune,Non-SCA,Exempt,SECRET,Network Administrator IV,573.5999999999999,114.71999999999998,114.71999999999998,114.71999999999998,114.71999999999998,114.71999999999998,,,,,,,,,80.0
+MTEN - Camp Lejeune,Non-SCA,Exempt,SECRET,Network Engineer IV,223.0666666666667,44.61333333333334,44.61333333333334,44.61333333333334,44.61333333333334,44.61333333333334,,,,,,,,,95.0
+MTEN - Camp Lejeune,Non-SCA,Exempt,SECRET,Tactical Data Link Analyst,223.0666666666667,44.61333333333334,44.61333333333334,44.61333333333334,44.61333333333334,44.61333333333334,,,,,,,,,75.0
+MTEN - Camp Lejeune,Non-SCA,Exempt,SECRET,Technical Support Specialist,446.1333333333334,89.22666666666667,89.22666666666667,89.22666666666667,89.22666666666667,89.22666666666667,,,,,,,,,80.0
+MTEN - Camp Pendleton,Non-SCA,Exempt,SECRET,Cybersecurity Analyst III,63.73333333333334,12.746666666666668,12.746666666666668,12.746666666666668,12.746666666666668,12.746666666666668,,,,,,,,,80.0
+MTEN - Camp Pendleton,Non-SCA,Exempt,SECRET,Cybersecurity Analyst IV,63.73333333333334,12.746666666666668,12.746666666666668,12.746666666666668,12.746666666666668,12.746666666666668,,,,,,,,,80.0
+MTEN - Camp Pendleton,Non-SCA,Exempt,SECRET,Mission Coordinator,223.0666666666667,44.61333333333334,44.61333333333334,44.61333333333334,44.61333333333334,44.61333333333334,,,,,,,,,85.0
+MTEN - Camp Pendleton,Non-SCA,Exempt,SECRET,Network Administrator III,127.46666666666668,25.493333333333336,25.493333333333336,25.493333333333336,25.493333333333336,25.493333333333336,,,,,,,,,80.0
+MTEN - Camp Pendleton,Non-SCA,Exempt,SECRET,Network Administrator IV,573.5999999999999,114.71999999999998,114.71999999999998,114.71999999999998,114.71999999999998,114.71999999999998,,,,,,,,,80.0
+MTEN - Camp Pendleton,Non-SCA,Exempt,SECRET,Network Engineer IV,223.0666666666667,44.61333333333334,44.61333333333334,44.61333333333334,44.61333333333334,44.61333333333334,,,,,,,,,95.0
+MTEN - Camp Pendleton,Non-SCA,Exempt,SECRET,Tactical Data Link Analyst,223.0666666666667,44.61333333333334,44.61333333333334,44.61333333333334,44.61333333333334,44.61333333333334,,,,,,,,,75.0
+MTEN - Camp Pendleton,Non-SCA,Exempt,SECRET,Technical Support Specialist,446.1333333333334,89.22666666666667,89.22666666666667,89.22666666666667,89.22666666666667,89.22666666666667,,,,,,,,,80.0
+MTEN - MCB Kaneohe Bay,Non-SCA,Exempt,SECRET,Cybersecurity Analyst III,63.73333333333334,12.746666666666668,12.746666666666668,12.746666666666668,12.746666666666668,12.746666666666668,,,,,,,,,80.0
+MTEN - MCB Kaneohe Bay,Non-SCA,Exempt,SECRET,Cybersecurity Analyst IV,63.73333333333334,12.746666666666668,12.746666666666668,12.746666666666668,12.746666666666668,12.746666666666668,,,,,,,,,80.0
+MTEN - MCB Kaneohe Bay,Non-SCA,Exempt,SECRET,Mission Coordinator,223.0666666666667,44.61333333333334,44.61333333333334,44.61333333333334,44.61333333333334,44.61333333333334,,,,,,,,,85.0
+MTEN - MCB Kaneohe Bay,Non-SCA,Exempt,SECRET,Network Administrator III,127.46666666666668,25.493333333333336,25.493333333333336,25.493333333333336,25.493333333333336,25.493333333333336,,,,,,,,,80.0
+MTEN - MCB Kaneohe Bay,Non-SCA,Exempt,SECRET,Network Administrator IV,573.5999999999999,114.71999999999998,114.71999999999998,114.71999999999998,114.71999999999998,114.71999999999998,,,,,,,,,80.0
+MTEN - MCB Kaneohe Bay,Non-SCA,Exempt,SECRET,Network Engineer IV,223.0666666666667,44.61333333333334,44.61333333333334,44.61333333333334,44.61333333333334,44.61333333333334,,,,,,,,,95.0
+MTEN - MCB Kaneohe Bay,Non-SCA,Exempt,SECRET,Tactical Data Link Analyst,223.0666666666667,44.61333333333334,44.61333333333334,44.61333333333334,44.61333333333334,44.61333333333334,,,,,,,,,75.0
+MTEN - MCB Kaneohe Bay,Non-SCA,Exempt,SECRET,Technical Support Specialist,446.1333333333334,89.22666666666667,89.22666666666667,89.22666666666667,89.22666666666667,89.22666666666667,,,,,,,,,80.0
+MTEN - MCB Quantico,Non-SCA,Exempt,SECRET,Cybersecurity Analyst III,63.73333333333334,12.746666666666668,12.746666666666668,12.746666666666668,12.746666666666668,12.746666666666668,,,,,,,,,80.0
+MTEN - MCB Quantico,Non-SCA,Exempt,SECRET,Cybersecurity Analyst IV,63.73333333333334,12.746666666666668,12.746666666666668,12.746666666666668,12.746666666666668,12.746666666666668,,,,,,,,,80.0
+MTEN - MCB Quantico,Non-SCA,Exempt,SECRET,Mission Coordinator,223.0666666666667,44.61333333333334,44.61333333333334,44.61333333333334,44.61333333333334,44.61333333333334,,,,,,,,,85.0
+MTEN - MCB Quantico,Non-SCA,Exempt,SECRET,Network Administrator III,127.46666666666668,25.493333333333336,25.493333333333336,25.493333333333336,25.493333333333336,25.493333333333336,,,,,,,,,80.0
+MTEN - MCB Quantico,Non-SCA,Exempt,SECRET,Network Administrator IV,573.5999999999999,114.71999999999998,114.71999999999998,114.71999999999998,114.71999999999998,114.71999999999998,,,,,,,,,80.0
+MTEN - MCB Quantico,Non-SCA,Exempt,SECRET,Network Engineer IV,223.0666666666667,44.61333333333334,44.61333333333334,44.61333333333334,44.61333333333334,44.61333333333334,,,,,,,,,95.0
+MTEN - MCB Quantico,Non-SCA,Exempt,SECRET,Tactical Data Link Analyst,223.0666666666667,44.61333333333334,44.61333333333334,44.61333333333334,44.61333333333334,44.61333333333334,,,,,,,,,75.0
+MTEN - MCB Quantico,Non-SCA,Exempt,SECRET,Technical Support Specialist,446.1333333333334,89.22666666666667,89.22666666666667,89.22666666666667,89.22666666666667,89.22666666666667,,,,,,,,,80.0
+MTEN - Okinawa,Non-SCA,Exempt,SECRET,Cybersecurity Analyst III,63.73333333333334,12.746666666666668,12.746666666666668,12.746666666666668,12.746666666666668,12.746666666666668,,,,,,,,,80.0
+MTEN - Okinawa,Non-SCA,Exempt,SECRET,Cybersecurity Analyst IV,63.73333333333334,12.746666666666668,12.746666666666668,12.746666666666668,12.746666666666668,12.746666666666668,,,,,,,,,80.0
+MTEN - Okinawa,Non-SCA,Exempt,SECRET,Mission Coordinator,223.0666666666667,44.61333333333334,44.61333333333334,44.61333333333334,44.61333333333334,44.61333333333334,,,,,,,,,85.0
+MTEN - Okinawa,Non-SCA,Exempt,SECRET,Network Administrator III,127.46666666666668,25.493333333333336,25.493333333333336,25.493333333333336,25.493333333333336,25.493333333333336,,,,,,,,,80.0
+MTEN - Okinawa,Non-SCA,Exempt,SECRET,Network Administrator IV,573.5999999999999,114.71999999999998,114.71999999999998,114.71999999999998,114.71999999999998,114.71999999999998,,,,,,,,,80.0
+MTEN - Okinawa,Non-SCA,Exempt,SECRET,Network Engineer IV,223.0666666666667,44.61333333333334,44.61333333333334,44.61333333333334,44.61333333333334,44.61333333333334,,,,,,,,,95.0
+MTEN - Okinawa,Non-SCA,Exempt,SECRET,Tactical Data Link Analyst,223.0666666666667,44.61333333333334,44.61333333333334,44.61333333333334,44.61333333333334,44.61333333333334,,,,,,,,,75.0
+MTEN - Okinawa,Non-SCA,Exempt,SECRET,Technical Support Specialist,446.1333333333334,89.22666666666667,89.22666666666667,89.22666666666667,89.22666666666667,89.22666666666667,,,,,,,,,80.0
