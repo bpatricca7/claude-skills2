@@ -1,0 +1,312 @@
+Region_ID,Region_Name,Occupation_Code,Title,Rate
+VA_NC_Hampton,NC/VA Hampton Roads,05070,Automotive Worker,22.59
+VA_NC_Hampton,NC/VA Hampton Roads,14043,Computer Operator III,23.42
+VA_NC_Hampton,NC/VA Hampton Roads,14044,Computer Operator IV,26.03
+VA_NC_Hampton,NC/VA Hampton Roads,14045,Computer Operator V,28.83
+VA_NC_Hampton,NC/VA Hampton Roads,14101,Computer Systems Analyst I,(see 1)
+VA_NC_Hampton,NC/VA Hampton Roads,14102,Computer Systems Analyst II,(see 1)
+VA_NC_Hampton,NC/VA Hampton Roads,14103,Computer Systems Analyst III,(see 1)
+VA_NC_Hampton,NC/VA Hampton Roads,23181,Electronics Technician Maintenance I,29.66
+VA_NC_Hampton,NC/VA Hampton Roads,23182,Electronics Technician Maintenance II,31.31
+VA_NC_Hampton,NC/VA Hampton Roads,23183,Electronics Technician Maintenance III,32.84
+VA_NC_Hampton,NC/VA Hampton Roads,30083,Engineering Technician III,24.87
+VA_NC_Hampton,NC/VA Hampton Roads,30084,Engineering Technician IV,30.81
+VA_NC_Hampton,NC/VA Hampton Roads,30085,Engineering Technician V,37.68
+VA_NC_Hampton,NC/VA Hampton Roads,30086,Engineering Technician VI,45.59
+VA_NC_Hampton,NC/VA Hampton Roads,23370,General Maintenance Worker,22.43
+VA_NC_Hampton,NC/VA Hampton Roads,23410,"Heating, Ventilation And Air-Conditioning",29.11
+VA_NC_Hampton,NC/VA Hampton Roads,23591,Metrology Technician I,32.70
+VA_NC_Hampton,NC/VA Hampton Roads,23550,"Machinist, Maintenance",30.91
+VA_NC_Hampton,NC/VA Hampton Roads,05190,Motor Vehicle Mechanic,25.00
+VA_NC_Hampton,NC/VA Hampton Roads,01410,Supply Technician,32.04
+VA_NC_Hampton,NC/VA Hampton Roads,23430,Heavy Equipment Mechanic,29.68
+VA_NC_Hampton,NC/VA Hampton Roads,23440,Heavy Equipment Operator,23.97
+VA_NC_Hampton,NC/VA Hampton Roads,30492,Unexploded Ordnance (UXO) Technician II,35.95
+VA_NC_Hampton,NC/VA Hampton Roads,30493,Unexploded Ordnance (UXO) Technician III,43.09
+NC_Eastern,NC Eastern Counties,05070,Automotive Worker,19.54
+NC_Eastern,NC Eastern Counties,14043,Computer Operator III,25.23
+NC_Eastern,NC Eastern Counties,14044,Computer Operator IV,28.03
+NC_Eastern,NC Eastern Counties,14045,Computer Operator V,31.04
+NC_Eastern,NC Eastern Counties,14101,Computer Systems Analyst I,(see 1)
+NC_Eastern,NC Eastern Counties,14102,Computer Systems Analyst II,(see 1)
+NC_Eastern,NC Eastern Counties,14103,Computer Systems Analyst III,(see 1)
+NC_Eastern,NC Eastern Counties,23181,Electronics Technician Maintenance I,34.37
+NC_Eastern,NC Eastern Counties,23182,Electronics Technician Maintenance II,36.59
+NC_Eastern,NC Eastern Counties,23183,Electronics Technician Maintenance III,38.60
+NC_Eastern,NC Eastern Counties,30083,Engineering Technician III,23.78
+NC_Eastern,NC Eastern Counties,30084,Engineering Technician IV,29.45
+NC_Eastern,NC Eastern Counties,30085,Engineering Technician V,36.04
+NC_Eastern,NC Eastern Counties,30086,Engineering Technician VI,43.58
+NC_Eastern,NC Eastern Counties,23370,General Maintenance Worker,20.83
+NC_Eastern,NC Eastern Counties,23410,"Heating, Ventilation And Air-Conditioning",23.42
+NC_Eastern,NC Eastern Counties,23591,Metrology Technician I,28.01
+NC_Eastern,NC Eastern Counties,23550,"Machinist, Maintenance",26.43
+NC_Eastern,NC Eastern Counties,05190,Motor Vehicle Mechanic,21.68
+NC_Eastern,NC Eastern Counties,01410,Supply Technician,26.85
+NC_Eastern,NC Eastern Counties,23430,Heavy Equipment Mechanic,27.24
+NC_Eastern,NC Eastern Counties,23440,Heavy Equipment Operator,22.44
+NC_Eastern,NC Eastern Counties,30492,Unexploded Ordnance (UXO) Technician II,37.00
+NC_Eastern,NC Eastern Counties,30493,Unexploded Ordnance (UXO) Technician III,44.34
+NC_Dare,NC Dare County,05070,Automotive Worker,19.74
+NC_Dare,NC Dare County,14043,Computer Operator III,23.08
+NC_Dare,NC Dare County,14044,Computer Operator IV,25.65
+NC_Dare,NC Dare County,14045,Computer Operator V,28.40
+NC_Dare,NC Dare County,14101,Computer Systems Analyst I,(see 1)
+NC_Dare,NC Dare County,14102,Computer Systems Analyst II,(see 1)
+NC_Dare,NC Dare County,14103,Computer Systems Analyst III,(see 1)
+NC_Dare,NC Dare County,23181,Electronics Technician Maintenance I,36.82
+NC_Dare,NC Dare County,23182,Electronics Technician Maintenance II,39.04
+NC_Dare,NC Dare County,23183,Electronics Technician Maintenance III,41.20
+NC_Dare,NC Dare County,30083,Engineering Technician III,19.87
+NC_Dare,NC Dare County,30084,Engineering Technician IV,24.62
+NC_Dare,NC Dare County,30085,Engineering Technician V,30.12
+NC_Dare,NC Dare County,30086,Engineering Technician VI,36.43
+NC_Dare,NC Dare County,23370,General Maintenance Worker,21.19
+NC_Dare,NC Dare County,23410,"Heating, Ventilation And Air-Conditioning",23.42
+NC_Dare,NC Dare County,23591,Metrology Technician I,28.01
+NC_Dare,NC Dare County,23550,"Machinist, Maintenance",26.43
+NC_Dare,NC Dare County,05190,Motor Vehicle Mechanic,22.17
+NC_Dare,NC Dare County,01410,Supply Technician,27.94
+NC_Dare,NC Dare County,23430,Heavy Equipment Mechanic,26.73
+NC_Dare,NC Dare County,23440,Heavy Equipment Operator,22.44
+NC_Dare,NC Dare County,30492,Unexploded Ordnance (UXO) Technician II,37.00
+NC_Dare,NC Dare County,30493,Unexploded Ordnance (UXO) Technician III,44.34
+FL_Jacksonville,FL Jacksonville,05070,Automotive Worker,20.22
+FL_Jacksonville,FL Jacksonville,14043,Computer Operator III,26.46
+FL_Jacksonville,FL Jacksonville,14044,Computer Operator IV,29.41
+FL_Jacksonville,FL Jacksonville,14045,Computer Operator V,32.57
+FL_Jacksonville,FL Jacksonville,14101,Computer Systems Analyst I,(see 1)
+FL_Jacksonville,FL Jacksonville,14102,Computer Systems Analyst II,(see 1)
+FL_Jacksonville,FL Jacksonville,14103,Computer Systems Analyst III,(see 1)
+FL_Jacksonville,FL Jacksonville,23181,Electronics Technician Maintenance I,26.97
+FL_Jacksonville,FL Jacksonville,23182,Electronics Technician Maintenance II,28.88
+FL_Jacksonville,FL Jacksonville,23183,Electronics Technician Maintenance III,30.79
+FL_Jacksonville,FL Jacksonville,30083,Engineering Technician III,22.17
+FL_Jacksonville,FL Jacksonville,30084,Engineering Technician IV,27.46
+FL_Jacksonville,FL Jacksonville,30085,Engineering Technician V,33.59
+FL_Jacksonville,FL Jacksonville,30086,Engineering Technician VI,40.64
+FL_Jacksonville,FL Jacksonville,23370,General Maintenance Worker,22.00
+FL_Jacksonville,FL Jacksonville,23410,"Heating, Ventilation And Air-Conditioning",23.97
+FL_Jacksonville,FL Jacksonville,23591,Metrology Technician I,32.31
+FL_Jacksonville,FL Jacksonville,23550,"Machinist, Maintenance",25.00
+FL_Jacksonville,FL Jacksonville,05190,Motor Vehicle Mechanic,23.08
+FL_Jacksonville,FL Jacksonville,01410,Supply Technician,31.92
+FL_Jacksonville,FL Jacksonville,23430,Heavy Equipment Mechanic,30.13
+FL_Jacksonville,FL Jacksonville,23440,Heavy Equipment Operator,22.94
+FL_Jacksonville,FL Jacksonville,30492,Unexploded Ordnance (UXO) Technician II,35.43
+FL_Jacksonville,FL Jacksonville,30493,Unexploded Ordnance (UXO) Technician III,42.46
+FL_Lake,FL Lake County,05070,Automotive Worker,20.09
+FL_Lake,FL Lake County,14043,Computer Operator III,25.86
+FL_Lake,FL Lake County,14044,Computer Operator IV,28.73
+FL_Lake,FL Lake County,14045,Computer Operator V,31.82
+FL_Lake,FL Lake County,14101,Computer Systems Analyst I,(see 1)
+FL_Lake,FL Lake County,14102,Computer Systems Analyst II,(see 1)
+FL_Lake,FL Lake County,14103,Computer Systems Analyst III,(see 1)
+FL_Lake,FL Lake County,23181,Electronics Technician Maintenance I,26.10
+FL_Lake,FL Lake County,23182,Electronics Technician Maintenance II,27.96
+FL_Lake,FL Lake County,23183,Electronics Technician Maintenance III,29.80
+FL_Lake,FL Lake County,30083,Engineering Technician III,20.10
+FL_Lake,FL Lake County,30084,Engineering Technician IV,24.90
+FL_Lake,FL Lake County,30085,Engineering Technician V,30.45
+FL_Lake,FL Lake County,30086,Engineering Technician VI,36.84
+FL_Lake,FL Lake County,23370,General Maintenance Worker,21.14
+FL_Lake,FL Lake County,23410,"Heating, Ventilation And Air-Conditioning",24.07
+FL_Lake,FL Lake County,23591,Metrology Technician I,27.78
+FL_Lake,FL Lake County,23550,"Machinist, Maintenance",23.90
+FL_Lake,FL Lake County,05190,Motor Vehicle Mechanic,22.94
+FL_Lake,FL Lake County,01410,Supply Technician,32.89
+FL_Lake,FL Lake County,23430,Heavy Equipment Mechanic,28.95
+FL_Lake,FL Lake County,23440,Heavy Equipment Operator,22.98
+FL_Lake,FL Lake County,30492,Unexploded Ordnance (UXO) Technician II,35.43
+FL_Lake,FL Lake County,30493,Unexploded Ordnance (UXO) Technician III,42.46
+FL_Monroe,FL Monroe (Keys),05070,Automotive Worker,19.62
+FL_Monroe,FL Monroe (Keys),14043,Computer Operator III,29.98
+FL_Monroe,FL Monroe (Keys),14044,Computer Operator IV,33.31
+FL_Monroe,FL Monroe (Keys),14045,Computer Operator V,36.88
+FL_Monroe,FL Monroe (Keys),14101,Computer Systems Analyst I,(see 1)
+FL_Monroe,FL Monroe (Keys),14102,Computer Systems Analyst II,(see 1)
+FL_Monroe,FL Monroe (Keys),14103,Computer Systems Analyst III,(see 1)
+FL_Monroe,FL Monroe (Keys),23181,Electronics Technician Maintenance I,25.22
+FL_Monroe,FL Monroe (Keys),23182,Electronics Technician Maintenance II,26.96
+FL_Monroe,FL Monroe (Keys),23183,Electronics Technician Maintenance III,28.80
+FL_Monroe,FL Monroe (Keys),30083,Engineering Technician III,24.53
+FL_Monroe,FL Monroe (Keys),30084,Engineering Technician IV,28.52
+FL_Monroe,FL Monroe (Keys),30085,Engineering Technician V,34.88
+FL_Monroe,FL Monroe (Keys),30086,Engineering Technician VI,42.20
+FL_Monroe,FL Monroe (Keys),23370,General Maintenance Worker,20.53
+FL_Monroe,FL Monroe (Keys),23410,"Heating, Ventilation And Air-Conditioning",27.91
+FL_Monroe,FL Monroe (Keys),23591,Metrology Technician I,28.80
+FL_Monroe,FL Monroe (Keys),23550,"Machinist, Maintenance",25.30
+FL_Monroe,FL Monroe (Keys),05190,Motor Vehicle Mechanic,22.40
+FL_Monroe,FL Monroe (Keys),01410,Supply Technician,30.19
+FL_Monroe,FL Monroe (Keys),23430,Heavy Equipment Mechanic,28.95
+FL_Monroe,FL Monroe (Keys),23440,Heavy Equipment Operator,22.85
+FL_Monroe,FL Monroe (Keys),30492,Unexploded Ordnance (UXO) Technician II,37.73
+FL_Monroe,FL Monroe (Keys),30493,Unexploded Ordnance (UXO) Technician III,45.22
+AZ_Yuma,AZ Yuma,05070,Automotive Worker,19.24
+AZ_Yuma,AZ Yuma,14043,Computer Operator III,25.06
+AZ_Yuma,AZ Yuma,14044,Computer Operator IV,26.84
+AZ_Yuma,AZ Yuma,14045,Computer Operator V,29.73
+AZ_Yuma,AZ Yuma,14101,Computer Systems Analyst I,(see 1)
+AZ_Yuma,AZ Yuma,14102,Computer Systems Analyst II,(see 1)
+AZ_Yuma,AZ Yuma,14103,Computer Systems Analyst III,(see 1)
+AZ_Yuma,AZ Yuma,23181,Electronics Technician Maintenance I,29.19
+AZ_Yuma,AZ Yuma,23182,Electronics Technician Maintenance II,32.67
+AZ_Yuma,AZ Yuma,23183,Electronics Technician Maintenance III,34.78
+AZ_Yuma,AZ Yuma,30083,Engineering Technician III,21.68
+AZ_Yuma,AZ Yuma,30084,Engineering Technician IV,26.87
+AZ_Yuma,AZ Yuma,30085,Engineering Technician V,32.86
+AZ_Yuma,AZ Yuma,30086,Engineering Technician VI,39.75
+AZ_Yuma,AZ Yuma,23370,General Maintenance Worker,19.36
+AZ_Yuma,AZ Yuma,23410,"Heating, Ventilation And Air-Conditioning",25.35
+AZ_Yuma,AZ Yuma,23591,Metrology Technician I,26.50
+AZ_Yuma,AZ Yuma,23550,"Machinist, Maintenance",26.54
+AZ_Yuma,AZ Yuma,05190,Motor Vehicle Mechanic,21.25
+AZ_Yuma,AZ Yuma,01410,Supply Technician,28.25
+AZ_Yuma,AZ Yuma,23430,Heavy Equipment Mechanic,31.60
+AZ_Yuma,AZ Yuma,23440,Heavy Equipment Operator,25.33
+AZ_Yuma,AZ Yuma,30492,Unexploded Ordnance (UXO) Technician II,35.43
+AZ_Yuma,AZ Yuma,30493,Unexploded Ordnance (UXO) Technician III,42.46
+WA_Grays_Harbor,WA Grays Harbor,05070,Automotive Worker,23.66
+WA_Grays_Harbor,WA Grays Harbor,14043,Computer Operator III,28.04
+WA_Grays_Harbor,WA Grays Harbor,14044,Computer Operator IV,31.17
+WA_Grays_Harbor,WA Grays Harbor,14045,Computer Operator V,34.51
+WA_Grays_Harbor,WA Grays Harbor,14101,Computer Systems Analyst I,(see 1)
+WA_Grays_Harbor,WA Grays Harbor,14102,Computer Systems Analyst II,(see 1)
+WA_Grays_Harbor,WA Grays Harbor,14103,Computer Systems Analyst III,(see 1)
+WA_Grays_Harbor,WA Grays Harbor,23181,Electronics Technician Maintenance I,35.77
+WA_Grays_Harbor,WA Grays Harbor,23182,Electronics Technician Maintenance II,37.57
+WA_Grays_Harbor,WA Grays Harbor,23183,Electronics Technician Maintenance III,39.28
+WA_Grays_Harbor,WA Grays Harbor,30083,Engineering Technician III,25.20
+WA_Grays_Harbor,WA Grays Harbor,30084,Engineering Technician IV,31.22
+WA_Grays_Harbor,WA Grays Harbor,30085,Engineering Technician V,38.19
+WA_Grays_Harbor,WA Grays Harbor,30086,Engineering Technician VI,46.21
+WA_Grays_Harbor,WA Grays Harbor,23370,General Maintenance Worker,24.86
+WA_Grays_Harbor,WA Grays Harbor,23410,"Heating, Ventilation And Air-Conditioning",29.23
+WA_Grays_Harbor,WA Grays Harbor,23591,Metrology Technician I,37.31
+WA_Grays_Harbor,WA Grays Harbor,23550,"Machinist, Maintenance",29.60
+WA_Grays_Harbor,WA Grays Harbor,05190,Motor Vehicle Mechanic,25.98
+WA_Grays_Harbor,WA Grays Harbor,01410,Supply Technician,34.00
+WA_Grays_Harbor,WA Grays Harbor,23430,Heavy Equipment Mechanic,34.34
+WA_Grays_Harbor,WA Grays Harbor,23440,Heavy Equipment Operator,34.97
+WA_Grays_Harbor,WA Grays Harbor,30492,Unexploded Ordnance (UXO) Technician II,39.82
+WA_Grays_Harbor,WA Grays Harbor,30493,Unexploded Ordnance (UXO) Technician III,47.73
+NV_Fallon,NV Churchill/Douglas,05070,Automotive Worker,25.75
+NV_Fallon,NV Churchill/Douglas,14043,Computer Operator III,25.78
+NV_Fallon,NV Churchill/Douglas,14044,Computer Operator IV,28.66
+NV_Fallon,NV Churchill/Douglas,14045,Computer Operator V,31.74
+NV_Fallon,NV Churchill/Douglas,14101,Computer Systems Analyst I,(see 1)
+NV_Fallon,NV Churchill/Douglas,14102,Computer Systems Analyst II,(see 1)
+NV_Fallon,NV Churchill/Douglas,14103,Computer Systems Analyst III,(see 1)
+NV_Fallon,NV Churchill/Douglas,23181,Electronics Technician Maintenance I,35.97
+NV_Fallon,NV Churchill/Douglas,23182,Electronics Technician Maintenance II,37.93
+NV_Fallon,NV Churchill/Douglas,23183,Electronics Technician Maintenance III,39.89
+NV_Fallon,NV Churchill/Douglas,30083,Engineering Technician III,22.39
+NV_Fallon,NV Churchill/Douglas,30084,Engineering Technician IV,27.73
+NV_Fallon,NV Churchill/Douglas,30085,Engineering Technician V,33.91
+NV_Fallon,NV Churchill/Douglas,30086,Engineering Technician VI,41.03
+NV_Fallon,NV Churchill/Douglas,23370,General Maintenance Worker,24.08
+NV_Fallon,NV Churchill/Douglas,23410,"Heating, Ventilation And Air-Conditioning",29.04
+NV_Fallon,NV Churchill/Douglas,23591,Metrology Technician I,35.38
+NV_Fallon,NV Churchill/Douglas,23550,"Machinist, Maintenance",27.23
+NV_Fallon,NV Churchill/Douglas,05190,Motor Vehicle Mechanic,28.56
+NV_Fallon,NV Churchill/Douglas,01410,Supply Technician,30.26
+NV_Fallon,NV Churchill/Douglas,23430,Heavy Equipment Mechanic,40.62
+NV_Fallon,NV Churchill/Douglas,23440,Heavy Equipment Operator,34.72
+NV_Fallon,NV Churchill/Douglas,30492,Unexploded Ordnance (UXO) Technician II,36.19
+NV_Fallon,NV Churchill/Douglas,30493,Unexploded Ordnance (UXO) Technician III,43.37
+CA_Los_Angeles,CA Los Angeles,05070,Automotive Worker,26.73
+CA_Los_Angeles,CA Los Angeles,14043,Computer Operator III,28.91
+CA_Los_Angeles,CA Los Angeles,14044,Computer Operator IV,32.13
+CA_Los_Angeles,CA Los Angeles,14045,Computer Operator V,35.59
+CA_Los_Angeles,CA Los Angeles,14101,Computer Systems Analyst I,(see 1)
+CA_Los_Angeles,CA Los Angeles,14102,Computer Systems Analyst II,(see 1)
+CA_Los_Angeles,CA Los Angeles,14103,Computer Systems Analyst III,(see 1)
+CA_Los_Angeles,CA Los Angeles,23181,Electronics Technician Maintenance I,32.37
+CA_Los_Angeles,CA Los Angeles,23182,Electronics Technician Maintenance II,34.45
+CA_Los_Angeles,CA Los Angeles,23183,Electronics Technician Maintenance III,36.58
+CA_Los_Angeles,CA Los Angeles,30083,Engineering Technician III,25.81
+CA_Los_Angeles,CA Los Angeles,30084,Engineering Technician IV,31.97
+CA_Los_Angeles,CA Los Angeles,30085,Engineering Technician V,39.10
+CA_Los_Angeles,CA Los Angeles,30086,Engineering Technician VI,47.31
+CA_Los_Angeles,CA Los Angeles,23370,General Maintenance Worker,25.14
+CA_Los_Angeles,CA Los Angeles,23591,Metrology Technician I,32.82
+CA_Los_Angeles,CA Los Angeles,23550,"Machinist, Maintenance",25.95
+CA_Los_Angeles,CA Los Angeles,05190,Motor Vehicle Mechanic,30.20
+CA_Los_Angeles,CA Los Angeles,01410,Supply Technician,38.63
+CA_Los_Angeles,CA Los Angeles,23430,Heavy Equipment Mechanic,39.73
+CA_Los_Angeles,CA Los Angeles,23440,Heavy Equipment Operator,44.82
+CA_Los_Angeles,CA Los Angeles,30492,Unexploded Ordnance (UXO) Technician II,41.30
+CA_Los_Angeles,CA Los Angeles,30493,Unexploded Ordnance (UXO) Technician III,49.50
+CA_San_Diego,CA San Diego,05070,Automotive Worker,26.17
+CA_San_Diego,CA San Diego,14043,Computer Operator III,30.23
+CA_San_Diego,CA San Diego,14044,Computer Operator IV,33.60
+CA_San_Diego,CA San Diego,14045,Computer Operator V,37.21
+CA_San_Diego,CA San Diego,14101,Computer Systems Analyst I,(see 1)
+CA_San_Diego,CA San Diego,14102,Computer Systems Analyst II,(see 1)
+CA_San_Diego,CA San Diego,14103,Computer Systems Analyst III,(see 1)
+CA_San_Diego,CA San Diego,23181,Electronics Technician Maintenance I,34.15
+CA_San_Diego,CA San Diego,23182,Electronics Technician Maintenance II,36.22
+CA_San_Diego,CA San Diego,23183,Electronics Technician Maintenance III,38.28
+CA_San_Diego,CA San Diego,30083,Engineering Technician III,26.26
+CA_San_Diego,CA San Diego,30084,Engineering Technician IV,32.53
+CA_San_Diego,CA San Diego,30085,Engineering Technician V,39.78
+CA_San_Diego,CA San Diego,30086,Engineering Technician VI,48.13
+CA_San_Diego,CA San Diego,23370,General Maintenance Worker,24.83
+CA_San_Diego,CA San Diego,23410,"Heating, Ventilation And Air-Conditioning",32.86
+CA_San_Diego,CA San Diego,23591,Metrology Technician I,37.59
+CA_San_Diego,CA San Diego,23550,"Machinist, Maintenance",30.60
+CA_San_Diego,CA San Diego,05190,Motor Vehicle Mechanic,29.34
+CA_San_Diego,CA San Diego,01410,Supply Technician,39.73
+CA_San_Diego,CA San Diego,23430,Heavy Equipment Mechanic,35.52
+CA_San_Diego,CA San Diego,23440,Heavy Equipment Operator,39.78
+CA_San_Diego,CA San Diego,30492,Unexploded Ordnance (UXO) Technician II,40.47
+CA_San_Diego,CA San Diego,30493,Unexploded Ordnance (UXO) Technician III,48.51
+NC_Craven,NC Craven County,05070,Automotive Worker,19.54
+NC_Craven,NC Craven County,14043,Computer Operator III,22.69
+NC_Craven,NC Craven County,14044,Computer Operator IV,23.82
+NC_Craven,NC Craven County,14045,Computer Operator V,26.37
+NC_Craven,NC Craven County,14101,Computer Systems Analyst I,(see 1)
+NC_Craven,NC Craven County,14102,Computer Systems Analyst II,(see 1)
+NC_Craven,NC Craven County,14103,Computer Systems Analyst III,(see 1)
+NC_Craven,NC Craven County,23181,Electronics Technician Maintenance I,34.28
+NC_Craven,NC Craven County,23182,Electronics Technician Maintenance II,36.59
+NC_Craven,NC Craven County,23183,Electronics Technician Maintenance III,38.60
+NC_Craven,NC Craven County,30083,Engineering Technician III,25.09
+NC_Craven,NC Craven County,30084,Engineering Technician IV,31.07
+NC_Craven,NC Craven County,30085,Engineering Technician V,38.00
+NC_Craven,NC Craven County,30086,Engineering Technician VI,45.98
+NC_Craven,NC Craven County,23370,General Maintenance Worker,21.22
+NC_Craven,NC Craven County,23410,"Heating, Ventilation And Air-Conditioning",23.42
+NC_Craven,NC Craven County,23591,Metrology Technician I,28.01
+NC_Craven,NC Craven County,23550,"Machinist, Maintenance",31.31
+NC_Craven,NC Craven County,05190,Motor Vehicle Mechanic,21.68
+NC_Craven,NC Craven County,01410,Supply Technician,27.94
+NC_Craven,NC Craven County,23430,Heavy Equipment Mechanic,27.40
+NC_Craven,NC Craven County,23440,Heavy Equipment Operator,21.92
+NC_Craven,NC Craven County,30492,Unexploded Ordnance (UXO) Technician II,37.00
+NC_Craven,NC Craven County,30493,Unexploded Ordnance (UXO) Technician III,44.34
+SC_Beaufort,SC Beaufort,05070,Automotive Worker,20.58
+SC_Beaufort,SC Beaufort,14043,Computer Operator III,25.69
+SC_Beaufort,SC Beaufort,14044,Computer Operator IV,28.55
+SC_Beaufort,SC Beaufort,14045,Computer Operator V,31.62
+SC_Beaufort,SC Beaufort,14101,Computer Systems Analyst I,(see 1)
+SC_Beaufort,SC Beaufort,14102,Computer Systems Analyst II,(see 1)
+SC_Beaufort,SC Beaufort,14103,Computer Systems Analyst III,(see 1)
+SC_Beaufort,SC Beaufort,23181,Electronics Technician Maintenance I,25.43
+SC_Beaufort,SC Beaufort,23182,Electronics Technician Maintenance II,26.88
+SC_Beaufort,SC Beaufort,23183,Electronics Technician Maintenance III,28.42
+SC_Beaufort,SC Beaufort,30083,Engineering Technician III,21.02
+SC_Beaufort,SC Beaufort,30084,Engineering Technician IV,26.04
+SC_Beaufort,SC Beaufort,30085,Engineering Technician V,31.86
+SC_Beaufort,SC Beaufort,30086,Engineering Technician VI,38.54
+SC_Beaufort,SC Beaufort,23370,General Maintenance Worker,20.80
+SC_Beaufort,SC Beaufort,23410,"Heating, Ventilation And Air-Conditioning",26.24
+SC_Beaufort,SC Beaufort,23591,Metrology Technician I,28.42
+SC_Beaufort,SC Beaufort,23550,"Machinist, Maintenance",28.42
+SC_Beaufort,SC Beaufort,05190,Motor Vehicle Mechanic,22.99
+SC_Beaufort,SC Beaufort,01410,Supply Technician,29.44
+SC_Beaufort,SC Beaufort,23430,Heavy Equipment Mechanic,29.45
+SC_Beaufort,SC Beaufort,23440,Heavy Equipment Operator,23.31
+SC_Beaufort,SC Beaufort,30492,Unexploded Ordnance (UXO) Technician II,35.43
+SC_Beaufort,SC Beaufort,30493,Unexploded Ordnance (UXO) Technician III,42.46

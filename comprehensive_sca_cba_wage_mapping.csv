@@ -1,0 +1,184 @@
+Location,Region_ID,Region_Name,Labor Category,Occupation_Code,Title,Rate,CBA - Exempt,Required Clearance,CONTRACTOR LABOR
+Beaufort,SC_Beaufort,SC Beaufort,Computer Operator V,14045,Computer Operator V,31.62,SCLS,SECRET,SCA
+Beaufort,SC_Beaufort,SC Beaufort,Computer Operator V,14045,Computer Operator V,31.62,SCLS,SECRET,SCA
+Beaufort,SC_Beaufort,SC Beaufort,Electronics Technician III,23183,Electronics Technician Maintenance III,28.42,SCLS,SECRET,SCA
+Beaufort,SC_Beaufort,SC Beaufort,Electronics Technician III,23183,Electronics Technician Maintenance III,28.42,SCLS,SECRET,SCA
+Beaufort,SC_Beaufort,SC Beaufort,Engineering Technician V,30085,Engineering Technician V,31.86,SCLS,SECRET,SCA
+Beaufort,SC_Beaufort,SC Beaufort,Engineering Technician V,30085,Engineering Technician V,31.86,SCLS,SECRET,SCA
+Beaufort,SC_Beaufort,SC Beaufort,Supply Technician,01410,Supply Technician,29.44,SCLS,SECRET,SCA
+Beaufort,SC_Beaufort,SC Beaufort,Supply Technician,01410,Supply Technician,29.44,SCLS,SECRET,SCA
+CP,CA_San_Diego,CA San Diego,Computer Operator IV,14044,Computer Operator IV,33.60,SCLS,SECRET,SCA
+CP,CA_San_Diego,CA San Diego,Computer Operator IV,14044,Computer Operator IV,33.60,SCLS,SECRET,SCA
+CP,CA_San_Diego,CA San Diego,Computer Operator V,14045,Computer Operator V,37.21,CBA,SECRET,SCA
+CP,CA_San_Diego,CA San Diego,Computer Operator V,14045,Computer Operator V,37.21,CBA,SECRET,SCA
+CP,CA_San_Diego,CA San Diego,Electronics Technician II,23182,Electronics Technician Maintenance II,36.22,SCLS,SECRET,SCA
+CP,CA_San_Diego,CA San Diego,Electronics Technician II,23182,Electronics Technician Maintenance II,36.22,SCLS,SECRET,SCA
+CP,CA_San_Diego,CA San Diego,Electronics Technician III,23183,Electronics Technician Maintenance III,38.28,SCLS,SECRET,SCA
+CP,CA_San_Diego,CA San Diego,Electronics Technician III,23183,Electronics Technician Maintenance III,38.28,SCLS,SECRET,SCA
+CP,CA_San_Diego,CA San Diego,Engineering Technician IV,30084,Engineering Technician IV,32.53,CBA,SECRET,SCA
+CP,CA_San_Diego,CA San Diego,Engineering Technician IV,30084,Engineering Technician IV,32.53,CBA,SECRET,SCA
+CP,CA_San_Diego,CA San Diego,Engineering Technician V,30085,Engineering Technician V,39.78,SCLS,SECRET,SCA
+CP,CA_San_Diego,CA San Diego,Engineering Technician V,30085,Engineering Technician V,39.78,SCLS,SECRET,SCA
+CP,CA_San_Diego,CA San Diego,Engineering Technician VI,30086,Engineering Technician VI,48.13,SCLS,SECRET,SCA
+CP,CA_San_Diego,CA San Diego,Engineering Technician VI,30086,Engineering Technician VI,48.13,SCLS,SECRET,SCA
+CP,CA_San_Diego,CA San Diego,General Maintenance Worker,23370,General Maintenance Worker,24.83,SCLS,SECRET,SCA
+CP,CA_San_Diego,CA San Diego,General Maintenance Worker,23370,General Maintenance Worker,24.83,SCLS,SECRET,SCA
+CP,CA_San_Diego,CA San Diego,"Heating, Ventilation and Air Conditioning",23410,"Heating, Ventilation And Air-Conditioning",32.86,SCLS,SECRET,SCA
+CP,CA_San_Diego,CA San Diego,"Heating, Ventilation and Air Conditioning",23410,"Heating, Ventilation And Air-Conditioning",32.86,SCLS,SECRET,SCA
+CP,CA_San_Diego,CA San Diego,Heavy Equipment Mechanic/Operator,23430,Heavy Equipment Mechanic,35.52,CBA,SECRET,SCA
+CP,CA_San_Diego,CA San Diego,Heavy Equipment Mechanic/Operator,23430,Heavy Equipment Mechanic,35.52,CBA,SECRET,SCA
+CP,CA_San_Diego,CA San Diego,Supply Technician,01410,Supply Technician,39.73,CBA,SECRET,SCA
+CP,CA_San_Diego,CA San Diego,Supply Technician,01410,Supply Technician,39.73,CBA,SECRET,SCA
+El Centro,CA_Los_Angeles,CA Los Angeles,Electronics Technician II,23182,Electronics Technician Maintenance II,34.45,CBA,SECRET,SCA
+El Centro,CA_Los_Angeles,CA Los Angeles,Electronics Technician II,23182,Electronics Technician Maintenance II,34.45,CBA,SECRET,SCA
+El Centro,CA_Los_Angeles,CA Los Angeles,Electronics Technician III,23183,Electronics Technician Maintenance III,36.58,CBA,SECRET,SCA
+El Centro,CA_Los_Angeles,CA Los Angeles,Electronics Technician III,23183,Electronics Technician Maintenance III,36.58,CBA,SECRET,SCA
+Fallon,NV_Fallon,NV Churchill/Douglas,Automotive Worker,05070,Automotive Worker,25.75,CBA,SECRET,SCA
+Fallon,NV_Fallon,NV Churchill/Douglas,Automotive Worker,05070,Automotive Worker,25.75,CBA,SECRET,SCA
+Fallon,NV_Fallon,NV Churchill/Douglas,Computer Operator III,14043,Computer Operator III,25.78,SCLS,SECRET,SCA
+Fallon,NV_Fallon,NV Churchill/Douglas,Computer Operator III,14043,Computer Operator III,25.78,SCLS,SECRET,SCA
+Fallon,NV_Fallon,NV Churchill/Douglas,Computer Operator IV,14044,Computer Operator IV,28.66,SCLS,SECRET,SCA
+Fallon,NV_Fallon,NV Churchill/Douglas,Computer Operator IV,14044,Computer Operator IV,28.66,SCLS,SECRET,SCA
+Fallon,NV_Fallon,NV Churchill/Douglas,Electronics Technician II,23182,Electronics Technician Maintenance II,37.93,SCLS,SECRET,SCA
+Fallon,NV_Fallon,NV Churchill/Douglas,Electronics Technician II,23182,Electronics Technician Maintenance II,37.93,SCLS,SECRET,SCA
+Fallon,NV_Fallon,NV Churchill/Douglas,Electronics Technician III,23183,Electronics Technician Maintenance III,39.89,SCLS,SECRET,SCA
+Fallon,NV_Fallon,NV Churchill/Douglas,Electronics Technician III,23183,Electronics Technician Maintenance III,39.89,SCLS,SECRET,SCA
+Fallon,NV_Fallon,NV Churchill/Douglas,Engineering Technician V,30085,Engineering Technician V,33.91,SCLS,SECRET,SCA
+Fallon,NV_Fallon,NV Churchill/Douglas,Engineering Technician V,30085,Engineering Technician V,33.91,SCLS,SECRET,SCA
+Fallon,NV_Fallon,NV Churchill/Douglas,Engineering Technician VI,30086,Engineering Technician VI,41.03,SCLS,SECRET,SCA
+Fallon,NV_Fallon,NV Churchill/Douglas,Engineering Technician VI,30086,Engineering Technician VI,41.03,SCLS,SECRET,SCA
+Fallon,NV_Fallon,NV Churchill/Douglas,General Maintenance Worker,23370,General Maintenance Worker,24.08,CBA,SECRET,SCA
+Fallon,NV_Fallon,NV Churchill/Douglas,General Maintenance Worker,23370,General Maintenance Worker,24.08,CBA,SECRET,SCA
+Fallon,NV_Fallon,NV Churchill/Douglas,"Heating, Ventilation and Air Conditioning",23410,"Heating, Ventilation And Air-Conditioning",29.04,SCLS,SECRET,SCA
+Fallon,NV_Fallon,NV Churchill/Douglas,"Heating, Ventilation and Air Conditioning",23410,"Heating, Ventilation And Air-Conditioning",29.04,SCLS,SECRET,SCA
+Fallon,NV_Fallon,NV Churchill/Douglas,Heavy Equipment Mechanic/Operator,23430,Heavy Equipment Mechanic,40.62,CBA,SECRET,SCA
+Fallon,NV_Fallon,NV Churchill/Douglas,Heavy Equipment Mechanic/Operator,23430,Heavy Equipment Mechanic,40.62,CBA,SECRET,SCA
+Fallon,NV_Fallon,NV Churchill/Douglas,METROLOGY TECHNICIAN I,23591,Metrology Technician I,35.38,CBA,SECRET,SCA
+Fallon,NV_Fallon,NV Churchill/Douglas,METROLOGY TECHNICIAN I,23591,Metrology Technician I,35.38,CBA,SECRET,SCA
+Fallon,NV_Fallon,NV Churchill/Douglas,Machinist,23550,"Machinist, Maintenance",27.23,CBA,SECRET,SCA
+Fallon,NV_Fallon,NV Churchill/Douglas,Machinist,23550,"Machinist, Maintenance",27.23,CBA,SECRET,SCA
+Fallon,NV_Fallon,NV Churchill/Douglas,Motor Vehicle Mechanic,05190,Motor Vehicle Mechanic,28.56,CBA,SECRET,SCA
+Fallon,NV_Fallon,NV Churchill/Douglas,Motor Vehicle Mechanic,05190,Motor Vehicle Mechanic,28.56,CBA,SECRET,SCA
+Fallon,NV_Fallon,NV Churchill/Douglas,Supply Technician,01410,Supply Technician,30.26,CBA,SECRET,SCA
+Fallon,NV_Fallon,NV Churchill/Douglas,Supply Technician,01410,Supply Technician,30.26,CBA,SECRET,SCA
+Fallon,NV_Fallon,NV Churchill/Douglas,UXO Technician II,30492,Unexploded Ordnance (UXO) Technician II,36.19,CBA,SECRET,SCA
+Fallon,NV_Fallon,NV Churchill/Douglas,UXO Technician II,30492,Unexploded Ordnance (UXO) Technician II,36.19,CBA,SECRET,SCA
+Fallon,NV_Fallon,NV Churchill/Douglas,UXO Technician III,30493,Unexploded Ordnance (UXO) Technician III,43.37,CBA,SECRET,SCA
+Fallon,NV_Fallon,NV Churchill/Douglas,UXO Technician III,30493,Unexploded Ordnance (UXO) Technician III,43.37,CBA,SECRET,SCA
+Hefti,UNKNOWN,,Computer Operator IV,14044,,,SCLS,SECRET,SCA
+Hefti,UNKNOWN,,Computer Operator IV,14044,,,SCLS,SECRET,SCA
+Hefti,UNKNOWN,,Electronics Technician II,23182,,,CBA,SECRET,SCA
+Hefti,UNKNOWN,,Engineering Technician IV,30084,,,SCLS,SECRET,SCA
+Hefti,UNKNOWN,,Engineering Technician IV,30084,,,SCLS,SECRET,SCA
+Hefti,UNKNOWN,,Engineering Technician V,30085,,,SCLS,SECRET,SCA
+Hefti,UNKNOWN,,Engineering Technician V,30085,,,SCLS,SECRET,SCA
+JAX,FL_Jacksonville,FL Jacksonville,Electronics Technician III,23183,Electronics Technician Maintenance III,30.79,CBA,SECRET,SCA
+JAX,FL_Jacksonville,FL Jacksonville,Electronics Technician III,23183,Electronics Technician Maintenance III,30.79,CBA,SECRET,SCA
+JAX,FL_Jacksonville,FL Jacksonville,Engineering Technician IV,30084,Engineering Technician IV,27.46,SCLS,SECRET,SCA
+JAX,FL_Jacksonville,FL Jacksonville,Engineering Technician IV,30084,Engineering Technician IV,27.46,SCLS,SECRET,SCA
+JAX,FL_Jacksonville,FL Jacksonville,Engineering Technician V,30085,Engineering Technician V,33.59,CBA,SECRET,SCA
+JAX,FL_Jacksonville,FL Jacksonville,Engineering Technician V,30085,Engineering Technician V,33.59,CBA,SECRET,SCA
+JAX,FL_Jacksonville,FL Jacksonville,Engineering Technician VI,30086,Engineering Technician VI,40.64,SCLS,SECRET,SCA
+JAX,FL_Jacksonville,FL Jacksonville,Engineering Technician VI,30086,Engineering Technician VI,40.64,SCLS,SECRET,SCA
+Key West,FL_Monroe,FL Monroe (Keys),Computer Operator IV,14044,Computer Operator IV,33.31,CBA,SECRET,SCA
+Key West,FL_Monroe,FL Monroe (Keys),Computer Operator IV,14044,Computer Operator IV,33.31,CBA,SECRET,SCA
+Key West,FL_Monroe,FL Monroe (Keys),Computer Operator V,14045,Computer Operator V,36.88,SCLS,SECRET,SCA
+Key West,FL_Monroe,FL Monroe (Keys),Computer Operator V,14045,Computer Operator V,36.88,SCLS,SECRET,SCA
+Key West,FL_Monroe,FL Monroe (Keys),Engineering Technician IV,30084,Engineering Technician IV,28.52,SCLS,SECRET,SCA
+Key West,FL_Monroe,FL Monroe (Keys),Engineering Technician IV,30084,Engineering Technician IV,28.52,SCLS,SECRET,SCA
+Key West,FL_Monroe,FL Monroe (Keys),Engineering Technician V,30085,Engineering Technician V,34.88,CBA,SECRET,SCA
+Key West,FL_Monroe,FL Monroe (Keys),Engineering Technician V,30085,Engineering Technician V,34.88,CBA,SECRET,SCA
+Lemoore,CA_Los_Angeles,CA Los Angeles,Computer Operator III,14043,Computer Operator III,28.91,SCLS,SECRET,SCA
+Lemoore,CA_Los_Angeles,CA Los Angeles,Computer Operator III,14043,Computer Operator III,28.91,SCLS,SECRET,SCA
+Lemoore,CA_Los_Angeles,CA Los Angeles,Electronics Technician II,23182,Electronics Technician Maintenance II,34.45,CBA,SECRET,SCA
+Lemoore,CA_Los_Angeles,CA Los Angeles,Electronics Technician II,23182,Electronics Technician Maintenance II,34.45,CBA,SECRET,SCA
+Lemoore,CA_Los_Angeles,CA Los Angeles,Electronics Technician III,23183,Electronics Technician Maintenance III,36.58,CBA,SECRET,SCA
+Lemoore,CA_Los_Angeles,CA Los Angeles,Electronics Technician III,23183,Electronics Technician Maintenance III,36.58,CBA,SECRET,SCA
+Lemoore,CA_Los_Angeles,CA Los Angeles,Engineering Technician IV,30084,Engineering Technician IV,31.97,SCLS,SECRET,SCA
+Lemoore,CA_Los_Angeles,CA Los Angeles,Engineering Technician IV,30084,Engineering Technician IV,31.97,SCLS,SECRET,SCA
+Miramar,CA_San_Diego,CA San Diego,Computer Operator III,14043,Computer Operator III,30.23,CBA,SECRET,SCA
+Miramar,CA_San_Diego,CA San Diego,Computer Operator III,14043,Computer Operator III,30.23,CBA,SECRET,SCA
+Miramar,CA_San_Diego,CA San Diego,Computer Operator V,14045,Computer Operator V,37.21,CBA,SECRET,SCA
+Miramar,CA_San_Diego,CA San Diego,Computer Operator V,14045,Computer Operator V,37.21,CBA,SECRET,SCA
+Miramar,CA_San_Diego,CA San Diego,Computer Systems Analyst I,14101,Computer Systems Analyst I,(see 1),CBA,SECRET,SCA
+Miramar,CA_San_Diego,CA San Diego,Computer Systems Analyst I,14101,Computer Systems Analyst I,(see 1),CBA,SECRET,SCA
+Miramar,CA_San_Diego,CA San Diego,Computer Systems Analyst II,14102,Computer Systems Analyst II,(see 1),CBA,SECRET,SCA
+Miramar,CA_San_Diego,CA San Diego,Computer Systems Analyst II,14102,Computer Systems Analyst II,(see 1),CBA,SECRET,SCA
+Miramar,CA_San_Diego,CA San Diego,Electronics Technician II (INST),23182,Electronics Technician Maintenance II,36.22,CBA,SECRET,SCA
+Miramar,CA_San_Diego,CA San Diego,Electronics Technician II (INST),23182,Electronics Technician Maintenance II,36.22,CBA,SECRET,SCA
+Miramar,CA_San_Diego,CA San Diego,Electronics Technician III,23183,Electronics Technician Maintenance III,38.28,CBA,SECRET,SCA
+Miramar,CA_San_Diego,CA San Diego,Electronics Technician III,23183,Electronics Technician Maintenance III,38.28,CBA,SECRET,SCA
+Miramar,CA_San_Diego,CA San Diego,Engineering Technician IV,30084,Engineering Technician IV,32.53,SCLS,SECRET,SCA
+Miramar,CA_San_Diego,CA San Diego,Engineering Technician IV,30084,Engineering Technician IV,32.53,SCLS,SECRET,SCA
+NCAMS,NC_Craven,NC Craven County,Computer Operator IV,14044,Computer Operator IV,23.82,SCLS,SECRET,SCA
+NCAMS,NC_Craven,NC Craven County,Computer Operator IV,14044,Computer Operator IV,23.82,SCLS,SECRET,SCA
+NCAMS,NC_Craven,NC Craven County,Computer Systems Analyst II,14102,Computer Systems Analyst II,(see 1),SCLS,SECRET,SCA
+NCAMS,NC_Craven,NC Craven County,Computer Systems Analyst II,14102,Computer Systems Analyst II,(see 1),SCLS,SECRET,SCA
+Navy Dare,NC_Dare,NC Dare County,Electronics Technician III,23183,Electronics Technician Maintenance III,41.20,CBA,SECRET,SCA
+Navy Dare,NC_Dare,NC Dare County,Electronics Technician III,23183,Electronics Technician Maintenance III,41.20,CBA,SECRET,SCA
+Navy Dare,NC_Dare,NC Dare County,Engineering Technician V,30085,Engineering Technician V,30.12,SCLS,SECRET,SCA
+Navy Dare,NC_Dare,NC Dare County,Engineering Technician V,30085,Engineering Technician V,30.12,SCLS,SECRET,SCA
+Navy Dare,NC_Dare,NC Dare County,General Maintenance Worker,23370,General Maintenance Worker,21.19,CBA,SECRET,SCA
+Navy Dare,NC_Dare,NC Dare County,General Maintenance Worker,23370,General Maintenance Worker,21.19,CBA,SECRET,SCA
+Navy Dare,NC_Dare,NC Dare County,Motor Vehicle Mechanic,05190,Motor Vehicle Mechanic,22.17,SCLS,SECRET,SCA
+Navy Dare,NC_Dare,NC Dare County,Motor Vehicle Mechanic,05190,Motor Vehicle Mechanic,22.17,SCLS,SECRET,SCA
+Oceana,VA_NC_Hampton,NC/VA Hampton Roads,Computer Operator V,14045,Computer Operator V,28.83,CBA,SECRET,SCA
+Oceana,VA_NC_Hampton,NC/VA Hampton Roads,Computer Operator V,14045,Computer Operator V,28.83,CBA,SECRET,SCA
+Oceana,VA_NC_Hampton,NC/VA Hampton Roads,Engineering Technician IV,30084,Engineering Technician IV,30.81,CBA,SECRET,SCA
+Oceana,VA_NC_Hampton,NC/VA Hampton Roads,Engineering Technician IV,30084,Engineering Technician IV,30.81,CBA,SECRET,SCA
+Oceana,VA_NC_Hampton,NC/VA Hampton Roads,Engineering Technician V,30085,Engineering Technician V,37.68,CBA,SECRET,SCA
+Oceana,VA_NC_Hampton,NC/VA Hampton Roads,Engineering Technician V,30085,Engineering Technician V,37.68,CBA,SECRET,SCA
+PNW,WA_Grays_Harbor,WA Grays Harbor,Electronics Technician I,23181,Electronics Technician Maintenance I,35.77,SCLS,SECRET,SCA
+PNW,WA_Grays_Harbor,WA Grays Harbor,Electronics Technician I,23181,Electronics Technician Maintenance I,35.77,SCLS,SECRET,SCA
+PNW,WA_Grays_Harbor,WA Grays Harbor,Electronics Technician III,23183,Electronics Technician Maintenance III,39.28,SCLS,SECRET,SCA
+PNW,WA_Grays_Harbor,WA Grays Harbor,Electronics Technician III,23183,Electronics Technician Maintenance III,39.28,SCLS,SECRET,SCA
+PNW,WA_Grays_Harbor,WA Grays Harbor,Engineering Technician IV,30084,Engineering Technician IV,31.22,SCLS,SECRET,SCA
+PNW,WA_Grays_Harbor,WA Grays Harbor,Engineering Technician IV,30084,Engineering Technician IV,31.22,SCLS,SECRET,SCA
+PNW,WA_Grays_Harbor,WA Grays Harbor,Engineering Technician V,30085,Engineering Technician V,38.19,SCLS,SECRET,SCA
+PNW,WA_Grays_Harbor,WA Grays Harbor,Engineering Technician V,30085,Engineering Technician V,38.19,SCLS,SECRET,SCA
+PNW,WA_Grays_Harbor,WA Grays Harbor,Supply Technician,01410,Supply Technician,34.00,SCLS,SECRET,SCA
+PNW,WA_Grays_Harbor,WA Grays Harbor,Supply Technician,01410,Supply Technician,34.00,SCLS,SECRET,SCA
+Pinecastle,FL_Lake,FL Lake County,Electronics Technician III,23183,Electronics Technician Maintenance III,29.80,SCLS,SECRET,SCA
+Pinecastle,FL_Lake,FL Lake County,Electronics Technician III,23183,Electronics Technician Maintenance III,29.80,SCLS,SECRET,SCA
+SCTTR,SC_Beaufort,SC Beaufort,Electronics Technician I,23181,Electronics Technician Maintenance I,25.43,SCLS,SECRET,SCA
+SCTTR,SC_Beaufort,SC Beaufort,Electronics Technician I,23181,Electronics Technician Maintenance I,25.43,SCLS,SECRET,SCA
+SCTTR,SC_Beaufort,SC Beaufort,Electronics Technician II,23182,Electronics Technician Maintenance II,26.88,CBA,SECRET,SCA
+SCTTR,SC_Beaufort,SC Beaufort,Electronics Technician II,23182,Electronics Technician Maintenance II,26.88,CBA,SECRET,SCA
+SCTTR,SC_Beaufort,SC Beaufort,Electronics Technician III,23183,Electronics Technician Maintenance III,28.42,CBA,SECRET,SCA
+SCTTR,SC_Beaufort,SC Beaufort,Electronics Technician III,23183,Electronics Technician Maintenance III,28.42,CBA,SECRET,SCA
+SCTTR,SC_Beaufort,SC Beaufort,Engineering Technician III,30083,Engineering Technician III,21.02,SCLS,SECRET,SCA
+SCTTR,SC_Beaufort,SC Beaufort,Engineering Technician III,30083,Engineering Technician III,21.02,SCLS,SECRET,SCA
+SCTTR,SC_Beaufort,SC Beaufort,Engineering Technician V,30085,Engineering Technician V,31.86,CBA,SECRET,SCA
+SCTTR,SC_Beaufort,SC Beaufort,Engineering Technician V,30085,Engineering Technician V,31.86,CBA,SECRET,SCA
+SCTTR,SC_Beaufort,SC Beaufort,Supply Technician,01410,Supply Technician,29.44,SCLS,SECRET,SCA
+SCTTR,SC_Beaufort,SC Beaufort,Supply Technician,01410,Supply Technician,29.44,SCLS,SECRET,SCA
+SCTTR,SC_Beaufort,SC Beaufort,UXO Technician III,30493,Unexploded Ordnance (UXO) Technician III,42.46,SCLS,SECRET,SCA
+SCTTR,SC_Beaufort,SC Beaufort,UXO Technician III,30493,Unexploded Ordnance (UXO) Technician III,42.46,SCLS,SECRET,SCA
+TTGP,UNKNOWN,,Engineering Technician III,30083,,,CBA,SECRET,SCA
+TTGP,UNKNOWN,,Engineering Technician III,30083,,,CBA,SECRET,SCA
+Yuma,AZ_Yuma,AZ Yuma,Computer Operator III,14043,Computer Operator III,25.06,CBA,SECRET,SCA
+Yuma,AZ_Yuma,AZ Yuma,Computer Operator III,14043,Computer Operator III,25.06,CBA,SECRET,SCA
+Yuma,AZ_Yuma,AZ Yuma,Computer Operator V,14045,Computer Operator V,29.73,CBA,SECRET,SCA
+Yuma,AZ_Yuma,AZ Yuma,Computer Operator V,14045,Computer Operator V,29.73,CBA,SECRET,SCA
+Yuma,AZ_Yuma,AZ Yuma,Computer Systems Analyst II,14102,Computer Systems Analyst II,(see 1),CBA,SECRET,SCA
+Yuma,AZ_Yuma,AZ Yuma,Computer Systems Analyst II,14102,Computer Systems Analyst II,(see 1),CBA,SECRET,SCA
+Yuma,AZ_Yuma,AZ Yuma,Computer Systems Analyst III,14103,Computer Systems Analyst III,(see 1),CBA,SECRET,SCA
+Yuma,AZ_Yuma,AZ Yuma,Computer Systems Analyst III,14103,Computer Systems Analyst III,(see 1),CBA,SECRET,SCA
+Yuma,AZ_Yuma,AZ Yuma,Electronics Technician I,23181,Electronics Technician Maintenance I,29.19,CBA,SECRET,SCA
+Yuma,AZ_Yuma,AZ Yuma,Electronics Technician I,23181,Electronics Technician Maintenance I,29.19,CBA,SECRET,SCA
+Yuma,AZ_Yuma,AZ Yuma,Electronics Technician II,23182,Electronics Technician Maintenance II,32.67,CBA,SECRET,SCA
+Yuma,AZ_Yuma,AZ Yuma,Electronics Technician II,23182,Electronics Technician Maintenance II,32.67,CBA,SECRET,SCA
+Yuma,AZ_Yuma,AZ Yuma,Electronics Technician III,23183,Electronics Technician Maintenance III,34.78,CBA,SECRET,SCA
+Yuma,AZ_Yuma,AZ Yuma,Electronics Technician III,23183,Electronics Technician Maintenance III,34.78,CBA,SECRET,SCA
+Yuma,AZ_Yuma,AZ Yuma,Engineering Technician IV,30084,Engineering Technician IV,26.87,SCLS,SECRET,SCA
+Yuma,AZ_Yuma,AZ Yuma,Engineering Technician IV,30084,Engineering Technician IV,26.87,SCLS,SECRET,SCA
+Yuma,AZ_Yuma,AZ Yuma,Engineering Technician VI,30086,Engineering Technician VI,39.75,SCLS,SECRET,SCA
+Yuma,AZ_Yuma,AZ Yuma,Engineering Technician VI,30086,Engineering Technician VI,39.75,SCLS,SECRET,SCA
+Yuma,AZ_Yuma,AZ Yuma,General Maintenance Worker,23370,General Maintenance Worker,19.36,CBA,SECRET,SCA
+Yuma,AZ_Yuma,AZ Yuma,General Maintenance Worker,23370,General Maintenance Worker,19.36,CBA,SECRET,SCA
+Yuma,AZ_Yuma,AZ Yuma,"Heating, Ventilation and Air Conditioning",23410,"Heating, Ventilation And Air-Conditioning",25.35,SCLS,SECRET,SCA
+Yuma,AZ_Yuma,AZ Yuma,"Heating, Ventilation and Air Conditioning",23410,"Heating, Ventilation And Air-Conditioning",25.35,SCLS,SECRET,SCA
+Yuma,AZ_Yuma,AZ Yuma,Heavy Equipment Mechanic/Operator,23430,Heavy Equipment Mechanic,31.60,CBA,SECRET,SCA
+Yuma,AZ_Yuma,AZ Yuma,Heavy Equipment Mechanic/Operator,23430,Heavy Equipment Mechanic,31.60,CBA,SECRET,SCA
+Yuma,AZ_Yuma,AZ Yuma,Supply Technician,01410,Supply Technician,28.25,CBA,SECRET,SCA
+Yuma,AZ_Yuma,AZ Yuma,Supply Technician,01410,Supply Technician,28.25,CBA,SECRET,SCA
